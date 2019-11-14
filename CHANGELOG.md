@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.3
+
+Load database relative to gem directory
+
 ## 0.1.2
 
 Allow searching for older 11-digit serial numbers

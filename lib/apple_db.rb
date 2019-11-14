@@ -14,7 +14,7 @@ module AppleDb
     attr_reader :items, :extra_items
 
     def items
-      @_items ||= CSV.read("lib/apple_db/apple_db.csv", headers: true, col_sep: "|")
+      @_items ||= CSV.read(File.join(File.dirname(__FILE__), "apple_db/apple_db.csv"), headers: true, col_sep: "|")
     end
   end
 end
