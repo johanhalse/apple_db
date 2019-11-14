@@ -331,7 +331,10 @@ identifier|category|name
 3GS|Stationary|iMac (24-inch, Early 2008)
 3LP|Laptop|PowerBook G4 (DVI)
 3LY|Laptop|MacBook Pro (15-inch, Early 2008)
+3LZ|Laptop|MacBook Pro (15-inch Early 2008)
 3M0|Laptop|MacBook Pro (17-inch, Early 2008)
+3M4|Laptop|MacBook Pro (17-inch, Early 2008)
+3M5|Laptop|MacBook Pro (17-inch, Early 2008)
 3N9|Laptop|MacBook (13-inch, Early 2008)
 3NA|Laptop|MacBook (13-inch, Early 2008)
 3ND|Laptop|MacBook (13-inch, Early 2008)
@@ -443,6 +446,8 @@ identifier|category|name
 5W7|Laptop|MacBook Pro (15-inch, Mid 2010)
 5WD|Server|Xserve(Early 2008)
 5WE|Server|Xserve(Early 2008)
+5YV|Laptop|MacBook Air
+5YW|Laptop|MacBook Air
 60R|Laptop|MacBook Air (Late 2008)
 62W|Laptop|MacBook Air (Late 2008)
 634|Laptop|MacBook Pro (17-inch, Late 2008)
@@ -515,6 +520,8 @@ identifier|category|name
 6M1|Laptop|MacBook (13-inch, Late 2008)
 6MH|Stationary|iMac (20-inch, Mid 2009)
 6MJ|Stationary|iMac (20-inch, Mid 2009)
+6T5|Laptop|MacBook Air
+6T6|Laptop|MacBook Air
 6V9|Laptop|MacBook (13-inch, Late 2008)
 6VE|Laptop|MacBook (13-inch, Aluminum, Late 2008)
 6X0|Stationary|iMac (20-inch, Early 2009)
@@ -891,6 +898,7 @@ AUP|Laptop|MacBook Pro (15-inch, Mid 2009)
 AUR|Laptop|MacBook Pro (15-inch, Mid 2009)
 AUT|Laptop|MacBook Pro (15-inch, 2.53GHz, Mid 2009)
 AUU|Laptop|MacBook Pro (17-inch, Mid 2009)
+AY5W|Laptop|MacBook Pro (17-inch, Late 2011)
 AY8|Laptop|MacBook Pro (15-inch, Mid 2009)
 AY9|Laptop|MacBook Pro (15-inch, 2.53GHz, Mid 2009)
 AZ3|Stationary|Power Mac G3 Minitower
@@ -2644,6 +2652,7 @@ F38Y|Phone|iPhone 5
 F39C|Phone|iPhone 5
 F39D|Phone|iPhone 5
 F447|Laptop|MacBook Pro (13-inch, Mid 2012)
+F4J2|Laptop|MacBook Pro (13-inch, Mid 2012)
 F4JL|Laptop|MacBook Pro (13-inch, Mid 2012)
 F4JR|Mp3Player|iPod touch (5th generation)
 F4JT|Mp3Player|iPod touch (5th generation)
@@ -2700,6 +2709,7 @@ F5W|Laptop|MacBook (13-inch, Mid 2010)
 F5WV|Laptop|MacBook Pro (13-inch, Mid 2012)
 F5WW|Laptop|MacBook Pro (13-inch, Mid 2012)
 F5X|Laptop|MacBook (13-inch, Mid 2010)
+F5Y|Laptop|MacBook Air
 F5Y1|Laptop|MacBook Pro (13-inch, Mid 2012)
 F5Y2|Laptop|MacBook Pro (Retina, Mid 2012)
 F5Y3|Laptop|MacBook Pro (13-inch, Mid 2012)
@@ -2755,6 +2765,7 @@ F6J|Stationary|Mac mini (Late 2009)
 F6L9|Laptop|MacBook Pro (Retina, Mid 2012)
 F6LH|Laptop|MacBook Pro (13-inch, Mid 2012)
 F6LJ|Laptop|MacBook Pro (13-inch, Mid 2012)
+F6T|Laptop|MacBook Air
 F6T5|Laptop|MacBook Air (13-inch, Mid 2013)
 F6T6|Laptop|MacBook Air (13-inch, Mid 2013)
 F6T9|Stationary|Mac Pro (Mid 2012)
@@ -3038,6 +3049,7 @@ FL8M|Stationary|iMac (27-inch, Late 2012)
 FL8N|Stationary|iMac (21.5-inch, Late 2012)
 FL94|Laptop|MacBook Pro (Retina, 15-inch, Early 2013)
 FL98|Laptop|MacBook Pro (15-inch, Mid 2012)
+FLC|Laptop|MacBook Air
 FLCF|Laptop|MacBook Air (11-inch, Mid 2013)
 FLCG|Laptop|MacBook Air (13-inch, Mid 2013)
 FLF|Stationary|Power Mac G3 Minitower
@@ -3094,9 +3106,20 @@ FM8Q|Stationary|iMac (27-inch, Late 2012)
 FMB|Stationary|iMac (266 MHz)
 FMJF|Mp3Player|iPod touch (5th generation)
 FMJG|Mp3Player|iPod touch (5th generation)
+FML3|Phone|iPhone 4s (8GB)
+FML4|Phone|iPhone 4s (8GB)
+FML5|Phone|iPhone 4s (8GB)
+FML6|Phone|iPhone 4s (8GB)
+FML7|Phone|iPhone 4s (8GB)
+FML8|Phone|iPhone 4s (8GB)
+FML9|Phone|iPhone 4s (8GB)
+FMLC|Phone|iPhone 4s (8GB)
+FMLD|Phone|iPhone 4s (8GB)
+FMLF|Phone|iPhone 4s (8GB)
 FMLG|Stationary|iMac (21.5-inch, Late 2012)
 FMLH|Stationary|iMac (27-inch, Late 2012)
 FMLJ|Laptop|MacBook Pro (Retina, 13-inch, Late 2012)
+FMLK|Laptop|MacBook Pro (Retina, 15-inch, Early 2013)
 FMQ|Stationary|iMac (266 MHz)
 FMR|Stationary|iMac (266 MHz)
 FMR5|Laptop|MacBook Air (11-inch, Mid 2013)
@@ -3228,12 +3251,17 @@ FQPL|Stationary|iMac (27-inch, Late 2013)
 FQPM|Stationary|iMac (27-inch, Late 2013)
 FQPN|Stationary|iMac (27-inch, Late 2013)
 FQPP|Stationary|iMac (27-inch, Late 2013)
+FQRR|Tablet|iPad mini 2
+FQRT|Tablet|iPad mini 2
 FQRY|Tablet|iPad mini 2
 FQT0|Tablet|iPad mini 2
 FR1M|Laptop|MacBook Pro (Retina, 15-inch, Late 2013)
 FR1Q|Stationary|iMac (21.5-inch, Late 2013)
 FR1R|Stationary|iMac (21.5-inch, Late 2013)
 FR1T|Stationary|iMac (21.5-inch, Late 2013)
+FR1V|Stationary|iMac (21.5-inch, Late 2013)
+FR1W|Stationary|iMac (27-inch, Late 2013)
+FR1Y|Stationary|iMac (27-inch, Late 2013)
 FR20|Stationary|iMac (27-inch, Late 2013)
 FR21|Stationary|iMac (21.5-inch, Late 2013)
 FR22|Stationary|iMac (27-inch, Late 2013)
@@ -3310,9 +3338,19 @@ FRQC|Stationary|Mac Pro (Late 2013)
 FRQF|Laptop|MacBook Pro (Retina, 13-inch, Late 2013)
 FRQH|Laptop|MacBook Pro (Retina, 15-inch, Late 2013)
 FRQJ|Laptop|MacBook Pro (Retina, 15-inch, Late 2013)
+FRQK|Laptop|MacBook Pro (Retina, 15-inch, Late 2013)
 FRQL|Laptop|MacBook Pro (Retina, 15-inch, Late 2013)
 FRWG|Tablet|iPad mini 2
+FRWH|Tablet|iPad mini 2
 FRWJ|Tablet|iPad mini 2
+FRWL|Tablet|iPad mini 2
+FRWP|Tablet|iPad mini 2
+FRWQ|Tablet|iPad mini 2
+FRWR|Tablet|iPad mini 2
+FRWT|Tablet|iPad mini 2
+FRWV|Tablet|iPad mini 2
+FRWW|Tablet|iPad mini 2
+FRWY|Tablet|iPad mini 2
 FRY0|Tablet|iPad mini 2
 FRY1|Tablet|iPad mini 2
 FRY9|Tablet|iPad mini 2 WiFi + Cellular
@@ -3360,8 +3398,10 @@ FTPT|Laptop|MacBook Pro (Retina, 15-inch, Late 2013)
 FTPV|Laptop|MacBook Pro (Retina, 15-inch, Late 2013)
 FTPW|Laptop|MacBook Pro (Retina, 15-inch, Late 2013)
 FTPY|Laptop|MacBook Pro (Retina, 15-inch, Late 2013)
+FTQ4|Stationary|iMac (27-inch, Late 2012)
 FTQ5|Stationary|iMac (27-inch, Late 2012)
 FTT4|Laptop|MacBook Pro (Retina, 13-inch, Late 2013)
+FTTJ|Laptop|MacBook Pro (Retina, 15-inch, Late 2013)
 FU1|Stationary|iMac (21.5-inch, Late 2009)
 FUN|Stationary|iMac (20-inch, Mid 2009)
 FVGW|Stationary|iMac (21.5-inch, Late 2013)
@@ -3372,6 +3412,7 @@ FVH6|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
 FVH7|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
 FVH8|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
 FVH9|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
+FVN4|Laptop|MacBook Pro (Retina, 15-inch, Late 2013)
 FVU|Stationary|iMac (266 MHz)
 FVV|Stationary|iMac (266 MHz)
 FVVW|Laptop|MacBook Pro (Retina, 13-inch, Late 2013)
@@ -3382,8 +3423,10 @@ FVY|Stationary|iMac (266 MHz)
 FVYN|Laptop|MacBook Pro (Retina, 15-inch, Late 2013)
 FW56|Stationary|Mac mini (Late 2012)
 FW57|Stationary|Mac mini (Late 2012)
+FWFY|Laptop|MacBook Pro (Retina, 15-inch, Late 2013)
 FWHW|Laptop|MacBook Pro (Retina, 15-inch, Late 2013)
 FWJH|Stationary|iMac (21.5-inch, Late 2013)
+FWKF|Laptop|MacBook Pro (Retina, 13-inch, Late 2013)
 FWKK|Laptop|MacBook Pro (Retina, 15-inch, Late 2013)
 FWKL|Laptop|MacBook Pro (Retina, 15-inch, Late 2013)
 FWL4|Laptop|MacBook Pro (13-inch, Mid 2012)
@@ -3409,6 +3452,7 @@ FY15|Stationary|iMac (27-inch, Late 2013)
 FY3Y|Stationary|Mac Pro (Late 2013)
 FY40|Stationary|Mac Pro (Late 2013)
 FY65|Stationary|iMac (21.5-inch, Mid 2014)
+FY67|Stationary|iMac (Retina 5K, 27-inch, Mid 2015)
 FY68|Stationary|iMac (Retina 5K, 27-inch, Late 2014)
 FY69|Stationary|iMac (21.5-inch, Mid 2014)
 FY6D|Stationary|iMac (Retina 5K, 27-inch, Mid 2015)
@@ -3613,6 +3657,10 @@ G5RP|Laptop|MacBook Air (13-inch, Early 2014)
 G5RQ|Laptop|MacBook Air (13-inch, Early 2014)
 G5S|Stationary|iMac (333 GHz)
 G5T|Stationary|iMac (333 GHz)
+G5T6|Phone|iPhone 6s Smart Battery Case
+G5T7|Phone|iPhone 6s Smart Battery Case
+G5T8|Phone|iPhone 6s Smart Battery Case
+G5T9|Phone|iPhone 6s Smart Battery Case
 G5TG|Tablet|iPad mini 3 Wi-Fi + Cellular (China)
 G5TH|Tablet|iPad mini 3 Wi-Fi + Cellular (China)
 G5TJ|Tablet|iPad mini 3 Wi-Fi + Cellular (China)
@@ -3667,6 +3715,292 @@ G6D4|Laptop|MacBook Air (13-inch, Early 2014)
 G6D5|Laptop|MacBook Air (13-inch, Early 2014)
 G6DP|Stationary|iMac (27-inch, Late 2013)
 G6PM|Laptop|MacBook Air (13-inch, Mid 2013)
+G70Y|Headphones|Powerbeats (1st generation)
+G710|Headphones|Powerbeats (1st generation)
+G711|Headphones|Powerbeats (1st generation)
+G712|Headphones|Beatbox
+G713|Headphones|Wireless (1.5)
+G714|Headphones|Wireless (1.5)
+G715|Headphones|Solo HD
+G716|Headphones|Solo HD
+G717|Headphones|Solo HD
+G718|Headphones|Studio (1st generation)
+G719|Headphones|Studio (1st generation)
+G71C|Headphones|Solo HD
+G71D|Headphones|Tour (1st generation)
+G71F|Headphones|Tour (1st generation)
+G71G|Headphones|Studio (1st generation)
+G71H|Headphones|Studio (1st generation)
+G71J|Headphones|Studio (1st generation)
+G71K|Headphones|Mixr
+G71L|Headphones|Studio (1st generation)
+G71M|Headphones|Mixr
+G71N|Headphones|Mixr
+G71P|Headphones|Pro
+G71Q|Headphones|Pro
+G71R|Headphones|Pro
+G71T|Headphones|Heartbeats (2nd generation)
+G71V|Headphones|Heartbeats (2nd generation)
+G71W|Headphones|Tour (2nd generation)
+G71Y|Headphones|Executive
+G720|Headphones|Studio (1st generation)
+G721|Headphones|Beatbox Portable (1st generation)
+G722|Headphones|Beatbox Portable (1st generation)
+G723|Headphones|Beatbox Portable (3rd generation)
+G724|Headphones|urBeats (2nd generation)
+G725|Headphones|Pill 1.0
+G726|Headphones|Pill 1.0
+G727|Headphones|Pill 1.0
+G729|Headphones|Pro
+G72D|Headphones|Studio (2nd generation)
+G72F|Headphones|urBeats (2nd generation)
+G72G|Headphones|Solo HD
+G72H|Headphones|Solo HD
+G72J|Headphones|Studio (2nd generation)
+G72K|Headphones|Solo HD
+G72L|Headphones|Solo HD
+G72M|Headphones|urBeats (2nd generation)
+G72N|Headphones|Beatbox Portable (2nd generation)
+G72P|Headphones|Beatbox Portable (2nd generation)
+G72Q|Headphones|Studio (1st generation)
+G72R|Headphones|Studio (1st generation)
+G72T|Headphones|Studio (1st generation)
+G72V|Headphones|Studio (1st generation)
+G72W|Headphones|Studio (1st generation)
+G72Y|Headphones|Studio (1st generation)
+G730|Headphones|Solo HD
+G731|Headphones|urBeats (2nd generation)
+G732|Headphones|Studio (2nd generation)
+G733|Headphones|Studio (1st generation)
+G734|Headphones|Pill 1.0
+G735|Headphones|Tour (2nd generation)
+G736|Headphones|Pill 1.0
+G737|Headphones|Pill 2.0
+G738|Headphones|Pill 2.0
+G739|Headphones|Pill 2.0
+G73C|Headphones|Pill XL
+G73D|Headphones|Pill XL
+G73F|Headphones|Pill XL
+G73G|Headphones|Mixr
+G73H|Headphones|Mixr
+G73J|Headphones|Mixr
+G73K|Headphones|Mixr
+G73L|Headphones|Mixr
+G73M|Headphones|Wireless (1.5)
+G73N|Headphones|Tour (2nd generation)
+G73P|Headphones|urBeats (2nd generation)
+G73Q|Headphones|Studio (1st generation)
+G73R|Headphones|Studio Wireless
+G73T|Headphones|Studio Wireless
+G73V|Headphones|Studio Wireless
+G743|Headphones|Powerbeats (1st generation)
+G744|Headphones|Powerbeats (1st generation)
+G745|Headphones|Powerbeats (1st generation)
+G746|Headphones|Executive
+G747|Headphones|Solo 2
+G748|Headphones|Solo 2
+G749|Headphones|Solo 2
+G74C|Headphones|Pill 1.0
+G74D|Headphones|Pill 1.0
+G74F|Headphones|Pill 1.0
+G74G|Headphones|Pill 1.0
+G74H|Headphones|Pill 1.0
+G74J|Headphones|Pro
+G74K|Headphones|Powerbeats (1st generation)
+G74L|Headphones|Solo HD
+G74M|Headphones|Solo 2
+G74N|Headphones|Studio (2nd generation)
+G74Q|Headphones|Studio (1st generation)
+G74R|Headphones|Solo HD
+G74T|Headphones|Solo HD
+G74V|Headphones|Solo HD
+G74W|Headphones|Solo HD
+G74Y|Headphones|Solo HD
+G750|Headphones|Solo HD
+G751|Headphones|Solo HD
+G752|Headphones|Pill 2.0
+G753|Headphones|Pill 2.0
+G754|Headphones|Pill 1.0
+G755|Headphones|Studio (2nd generation)
+G756|Headphones|urBeats (2nd generation)
+G757|Headphones|urBeats (2nd generation)
+G758|Headphones|urBeats (2nd generation)
+G759|Headphones|urBeats (2nd generation)
+G75C|Headphones|urBeats (2nd generation)
+G75D|Headphones|Mixr
+G75F|Headphones|Wireless (1.5)
+G75G|Headphones|Wireless (1.5)
+G75H|Headphones|Pill 2.0
+G75J|Headphones|Solo HD
+G75K|Headphones|Pro
+G75L|Headphones|Studio (2nd generation)
+G75M|Headphones|Solo HD
+G75T|Headphones|Studio Wireless
+G75Y|Headphones|Studio (2nd generation)
+G760|Headphones|Studio (2nd generation)
+G761|Headphones|Mixr
+G762|Headphones|Studio (2nd generation)
+G763|Headphones|Tour (2nd generation)
+G764|Headphones|Studio Wireless
+G765|Headphones|Studio Wireless
+G766|Headphones|Solo HD
+G768|Headphones|Mixr
+G76C|Headphones|urBeats (2nd generation)
+G76D|Headphones|urBeats (2nd generation)
+G76F|Headphones|urBeats (2nd generation)
+G76G|Headphones|Wireless (1.5)
+G76H|Headphones|urBeats (2nd generation)
+G76J|Headphones|Solo HD
+G76K|Headphones|Solo HD
+G76L|Headphones|Studio (2nd generation)
+G76M|Headphones|Studio (2nd generation)
+G76N|Headphones|Studio (2nd generation)
+G76P|Headphones|Pill 2.0
+G76Q|Headphones|Pill 2.0
+G76R|Headphones|Pill 2.0
+G76T|Headphones|Mixr
+G76V|Headphones|Solo HD
+G770|Headphones|urBeats (2nd generation)
+G774|Headphones|Powerbeats2 Wireless
+G775|Headphones|Powerbeats2 Wireless
+G776|Headphones|Powerbeats2 Wireless
+G777|Headphones|Solo 2
+G778|Headphones|Solo 2
+G779|Headphones|Powerbeats2 Wireless
+G77C|Headphones|Studio (2nd generation)
+G77D|Headphones|Studio (2nd generation)
+G77F|Headphones|Studio (2nd generation)
+G77G|Headphones|Studio (2nd generation)
+G77H|Headphones|Studio (2nd generation)
+G77M|Headphones|Powerbeats2 Wireless
+G77N|Headphones|Pill 2.0
+G77T|Headphones|Studio (2nd generation)
+G77W|Headphones|Studio (2nd generation)
+G77Y|Headphones|Mixr
+G780|Headphones|Mixr
+G781|Headphones|Mixr
+G782|Headphones|Mixr
+G783|Headphones|Mixr
+G784|Headphones|Mixr
+G786|Headphones|Pill XL
+G787|Headphones|Pill XL
+G78L|Headphones|Tour (2nd generation)
+G78M|Headphones|Tour (2nd generation)
+G78N|Headphones|Tour (2nd generation)
+G78P|Headphones|Tour (2nd generation)
+G78W|Headphones|Pill 2.0
+G79C|Headphones|Pill 2.0
+G79M|Headphones|Studio Wireless
+G79N|Headphones|Studio Wireless
+G79P|Headphones|Pill 2.0
+G7CN|Headphones|Studio (1st generation)
+G7CP|Headphones|Studio (1st generation)
+G7CQ|Headphones|Studio (1st generation)
+G7CR|Headphones|Studio (1st generation)
+G7CT|Headphones|Studio (1st generation)
+G7CV|Headphones|Studio (1st generation)
+G7CY|Headphones|Studio (1st generation)
+G7D0|Headphones|Studio (1st generation)
+G7D1|Headphones|Studio (1st generation)
+G7D2|Headphones|Studio (1st generation)
+G7D3|Headphones|Solo HD
+G7D4|Headphones|Studio (1st generation)
+G7D5|Headphones|Studio (1st generation)
+G7D6|Headphones|Studio (1st generation)
+G7D7|Headphones|Studio (1st generation)
+G7D8|Headphones|Studio (1st generation)
+G7D9|Headphones|Studio (1st generation)
+G7DC|Headphones|Studio (1st generation)
+G7DD|Headphones|Studio (1st generation)
+G7DF|Headphones|Studio (1st generation)
+G7DG|Headphones|Studio (1st generation)
+G7DH|Headphones|Studio (1st generation)
+G7DJ|Headphones|Studio (1st generation)
+G7DK|Headphones|Studio (1st generation)
+G7DL|Headphones|Studio (1st generation)
+G7DM|Headphones|Studio (1st generation)
+G7DN|Headphones|Studio (1st generation)
+G7DP|Headphones|Studio (1st generation)
+G7DQ|Headphones|Pill 1.0
+G7DR|Headphones|Pill 1.0
+G7DT|Headphones|Powerbeats (1st generation)
+G7DV|Headphones|Studio (1st generation)
+G7DW|Headphones|Solo HD
+G7DY|Headphones|Studio (1st generation)
+G7F0|Headphones|Executive
+G7F1|Headphones|Pill 1.0
+G7F2|Headphones|Pill 1.0
+G7F3|Headphones|Pill 1.0
+G7F4|Headphones|Pill 1.0
+G7F5|Headphones|Pill 1.0
+G7F6|Headphones|Executive
+G7F7|Headphones|Studio (1st generation)
+G7F8|Headphones|Pill 1.0
+G7F9|Headphones|Studio (1st generation)
+G7FC|Headphones|Studio (1st generation)
+G7FD|Headphones|Studio (1st generation)
+G7FF|Headphones|Pill 1.0
+G7FG|Headphones|Studio (1st generation)
+G7FH|Headphones|Studio (1st generation)
+G7FJ|Headphones|Studio (1st generation)
+G7FK|Headphones|Studio (1st generation)
+G7FL|Headphones|Studio (1st generation)
+G7FM|Headphones|Studio (1st generation)
+G7FN|Headphones|Studio (1st generation)
+G7FP|Headphones|Studio (1st generation)
+G7FQ|Headphones|Studio (1st generation)
+G7FR|Headphones|Studio (1st generation)
+G7FT|Headphones|Studio (1st generation)
+G7K3|Headphones|Studio (2nd generation)
+G7K6|Headphones|Pill 2.0
+G7K7|Headphones|Pro
+G7K8|Headphones|Diddybeats
+G7K9|Headphones|Diddybeats
+G7KC|Headphones|Diddybeats
+G7KD|Headphones|Diddybeats
+G7KF|Headphones|Diddybeats
+G7KQ|Headphones|Solo (1st generation)
+G7KR|Headphones|Solo (1st generation)
+G7KT|Headphones|Solo HD
+G7KV|Headphones|Solo HD
+G7L0|Headphones|Studio (1st generation)
+G7L1|Headphones|iBeats
+G7L2|Headphones|iBeats
+G7L3|Headphones|iBeats
+G7L4|Headphones|iBeats
+G7L5|Headphones|Heartbeats (1st generation)
+G7L7|Headphones|Heartbeats (1st generation)
+G7L8|Headphones|Heartbeats (1st generation)
+G7LD|Headphones|Solo (1st generation)
+G7LG|Headphones|Beatbox Portable (1st generation)
+G7LH|Headphones|Beatbox Portable (1st generation)
+G7LJ|Headphones|Beatbox
+G7LL|Headphones|Heartbeats (2nd generation)
+G7LM|Headphones|Heartbeats (2nd generation)
+G7LN|Headphones|Mixr
+G7LP|Headphones|Mixr
+G7LQ|Headphones|Powerbeats (1st generation)
+G7LR|Headphones|Powerbeats (1st generation)
+G7LT|Headphones|Powerbeats (1st generation)
+G7LV|Headphones|Pro
+G7LW|Headphones|Pro
+G7LY|Headphones|Solo HD
+G7M1|Headphones|Solo HD
+G7M3|Headphones|Solo HD
+G7M5|Headphones|Studio (1st generation)
+G7M6|Headphones|Studio (1st generation)
+G7M7|Headphones|Studio (1st generation)
+G7M8|Headphones|Studio (1st generation)
+G7M9|Headphones|Studio (1st generation)
+G7MD|Headphones|Studio (1st generation)
+G7MG|Headphones|Studio (1st generation)
+G7MH|Headphones|Studio (1st generation)
+G7MJ|Headphones|Studio (1st generation)
+G7ML|Headphones|Tour (1st generation)
+G7MM|Headphones|Tour (1st generation)
+G7MN|Headphones|Wireless (1.5)
+G7MP|Headphones|Wireless (1.5)
+G7MQ|Headphones|iBeats
 G7RD|Laptop|MacBook Pro (Retina, 13-inch, Mid 2014)
 G7RF|Laptop|MacBook Pro (Retina, 13-inch, Mid 2014)
 G7YQ|Laptop|MacBook Pro (Retina, 13-inch, Mid 2014)
@@ -3684,7 +4018,18 @@ G8J7|Laptop|MacBook Pro (Retina, 15-inch, Mid 2014)
 G8L0|Laptop|MacBook Pro (Retina, 13-inch, Mid 2014)
 G8L1|Laptop|MacBook Pro (Retina, 15-inch, Mid 2014)
 G8L2|Stationary|iMac (21.5-inch, Mid 2014)
+G8PM|Headphones|Solo2 Wireless
+G8PN|Headphones|Solo2 Wireless
+G8PP|Headphones|Solo2 Wireless
+G8PQ|Headphones|Pill 2.0
+G8PR|Headphones|Studio Wireless
+G8PT|Headphones|Solo2 Wireless
 G8Q|Stationary|iMac (333 GHz)
+G8Q1|Headphones|Solo 2
+G8Q2|Headphones|Solo 2
+G8Q3|Headphones|Solo 2
+G8Q4|Headphones|Solo 2
+G8Q5|Headphones|Solo 2
 G8T|Stationary|iMac (333 GHz)
 G8U|Stationary|iMac (333 GHz)
 G8V|Stationary|iMac (333 GHz)
@@ -3718,6 +4063,8 @@ G971|Laptop|MacBook Pro (Retina, 13-inch, Mid 2014)
 G972|Laptop|MacBook Pro (Retina, 13-inch, Mid 2014)
 G973|Laptop|MacBook Pro (Retina, 15-inch, Mid 2014)
 G974|Laptop|MacBook Pro (Retina, 15-inch, Mid 2014)
+G99D|Watch|Apple Watch 38mm Aluminum (1st gen)
+G99F|Watch|Apple Watch 38mm Aluminum (1st gen)
 G9FL|Laptop|MacBook Pro (Retina, 13-inch, Mid 2014)
 G9FM|Laptop|MacBook Pro (Retina, 13-inch, Mid 2014)
 G9FN|Laptop|MacBook Pro (Retina, 13-inch, Mid 2014)
@@ -3725,11 +4072,25 @@ G9FP|Laptop|MacBook Pro (Retina, 13-inch, Mid 2014)
 G9FQ|Laptop|MacBook Pro (Retina, 13-inch, Mid 2014)
 G9FR|Laptop|MacBook Pro (Retina, 13-inch, Mid 2014)
 G9FT|Laptop|MacBook Pro (Retina, 15-inch, Mid 2014)
+G9HM|Watch|Apple Watch 38mm Stainless Steel (1st gen)
+G9HN|Watch|Apple Watch 38mm Stainless Steel (1st gen)
+G9HP|Watch|Apple Watch 38mm Gold (1st gen)
+G9HQ|Watch|Apple Watch 38mm Gold (1st gen)
+G9J5|Watch|Apple Watch 42mm Aluminum (1st gen)
+G9J6|Watch|Apple Watch 42mm Aluminum (1st gen)
+G9J8|Watch|Apple Watch 42mm Stainless Steel (1st gen)
+G9JC|Watch|Apple Watch 42mm Stainless Steel (1st gen)
+G9JD|Watch|Apple Watch 42mm Gold (1st gen)
+G9JF|Watch|Apple Watch 42mm Gold (1st gen)
 G9JN|Laptop|MacBook Pro (Retina, 15-inch, Mid 2014)
 G9L6|Laptop|MacBook Pro (Retina, 15-inch, Mid 2014)
 G9L7|Laptop|MacBook Pro (Retina, 15-inch, Mid 2014)
 G9L8|Laptop|MacBook Pro (Retina, 15-inch, Mid 2014)
 G9L9|Laptop|MacBook Pro (Retina, 15-inch, Mid 2014)
+G9LG|Headphones|Solo 2
+G9LH|Headphones|Solo 2
+G9LJ|Headphones|Pill 2.0
+G9RM|MediaPlayer|Apple TV HD
 GA3|Laptop|MacBook (13-inch, Late 2009)
 GAY|Laptop|MacBook (13-inch, Late 2009)
 GAZ|Laptop|MacBook (13-inch, Late 2009)
@@ -3737,10 +4098,36 @@ GB0|Laptop|MacBook (13-inch, Late 2009)
 GB4|Laptop|MacBook (13-inch, Late 2009)
 GB5|Laptop|MacBook (13-inch, Late 2009)
 GBR|Stationary|iMac (333 GHz)
+GC22|Headphones|Wireless (1st generation)
+GC8J|Headphones|Powerbeats (1st generation)
+GC8K|Headphones|Powerbeats (1st generation)
+GC8L|Headphones|Powerbeats (1st generation)
+GC8M|Headphones|urBeats (1st generation)
+GC8N|Headphones|urBeats (1st generation)
+GC8P|Headphones|Solo HD
+GC8Q|Headphones|Solo HD
+GC8R|Headphones|Wireless (1st generation)
+GCLR|Watch|Apple Watch 42mm Gold (1st gen)
+GCLT|Watch|Apple Watch 38mm Gold (1st gen)
 GCN1|Laptop|MacBook (Retina, 12-inch, Early 2015)
 GCN2|Laptop|MacBook (Retina, 12-inch, Early 2015)
 GCN3|Laptop|MacBook (Retina, 12-inch, Early 2015)
 GCN4|Laptop|MacBook (Retina, 12-inch, Early 2015)
+GCN6|Headphones|Studio Wireless
+GCNF|Headphones|Pill 2.0
+GCNK|Headphones|Powerbeats2 Wireless
+GCNL|Headphones|Pro
+GCNM|Headphones|Pro
+GCNN|Headphones|Pro
+GCNP|Headphones|Pro
+GCNQ|Headphones|Pro
+GCNR|Headphones|Pro
+GCNT|Headphones|Pro
+GCNW|Headphones|Solo 2
+GCP0|Headphones|Studio Wireless
+GCP2|Headphones|Studio Wireless
+GCP3|Headphones|Tour (2nd generation)
+GCP4|Headphones|urBeats (2nd generation)
 GCTM|Stationary|iMac (Retina 5K, 27-inch, Late 2014)
 GCVG|Stationary|Mac mini (Late 2014)
 GCVH|Stationary|Mac mini (Late 2014)
@@ -3756,6 +4143,7 @@ GCW1|Stationary|Mac mini (Late 2014)
 GD6|Laptop|MacBook Pro (15-inch, Mid 2010)
 GDJL|Laptop|MacBook Pro (13-inch, Mid 2012)
 GDJM|Laptop|MacBook Pro (Retina, 13-inch, Mid 2014)
+GDL2|Headphones|Laptop|MacBook Pro (13-inch, Mid 2012)
 GDPP|Laptop|MacBook Pro (Retina, 15-inch, Mid 2014)
 GDQY|Stationary|iMac (Retina 5K, 27-inch, Late 2014)
 GDR3|Stationary|iMac (Retina 5K, 27-inch, Late 2014)
@@ -3779,6 +4167,9 @@ GF83|Laptop|MacBook (Retina, 12-inch, Early 2015)
 GF84|Laptop|MacBook (Retina, 12-inch, Early 2015)
 GF85|Laptop|MacBook (Retina, 12-inch, Early 2015)
 GFFQ|Stationary|iMac (Retina 5K, 27-inch, Late 2014)
+GFJM|Headphones|urBeats (2nd generation)
+GFJN|Headphones|urBeats (2nd generation)
+GFJP|Headphones|urBeats (2nd generation)
 GFT|Stationary|iMac (333 GHz)
 GFWK|Laptop|MacBook Air (11-inch, Early 2015)
 GFWL|Laptop|MacBook Air (11-inch, Early 2015)
@@ -3788,6 +4179,7 @@ GFWP|Laptop|MacBook Air (11-inch, Early 2015)
 GG77|Stationary|iMac (21.5-inch, Late 2015)
 GG78|Stationary|iMac (Retina 4K, 21.5-inch, Late 2015)
 GG79|Stationary|iMac (21.5-inch, Late 2015)
+GG7C|Stationary|iMac (Retina 4K, 21.5-inch, Late 2015)
 GG7D|Stationary|iMac (21.5-inch, Late 2015)
 GG7F|Stationary|iMac (Retina 4K, 21.5-inch, Late 2015)
 GG7G|Stationary|iMac (21.5-inch, Late 2015)
@@ -3795,6 +4187,7 @@ GG7H|Stationary|iMac (Retina 4K, 21.5-inch, Late 2015)
 GG7J|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 GG7L|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 GG7N|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
+GG7Q|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 GG7R|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 GG7T|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 GG7V|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
@@ -3805,14 +4198,61 @@ GG82|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 GG9|Stationary|Power Mac G3 Minitower
 GGA|Stationary|Power Mac G3 Minitower
 GGE|Stationary|iMac DV (Slot Loading)
+GGK2|Mp3Player|iPod touch (6th generation)
+GGK3|Mp3Player|iPod touch (6th generation)
+GGK4|Mp3Player|iPod touch (6th generation)
+GGK5|Mp3Player|iPod touch (6th generation)
 GGK6|Mp3Player|iPod touch (6th generation)
+GGK7|Mp3Player|iPod touch (6th generation)
+GGK8|Mp3Player|iPod touch (6th generation)
+GGK9|Mp3Player|iPod touch (6th generation)
+GGNJ|Mp3Player|iPod touch (6th generation)
+GGNK|Mp3Player|iPod touch (6th generation)
+GGNL|Mp3Player|iPod touch (6th generation)
+GGNM|Mp3Player|iPod touch (6th generation)
+GGNN|Mp3Player|iPod touch (6th generation)
+GGNP|Mp3Player|iPod touch (6th generation)
+GGNQ|Mp3Player|iPod touch (6th generation)
+GGNR|Mp3Player|iPod touch (6th generation)
+GGNT|Mp3Player|iPod touch (6th generation)
+GGNW|Mp3Player|iPod touch (6th generation)
 GGQ|Stationary|iMac (266 MHz)
+GH6W|Watch|Apple Watch 38mm Gold (1st gen)
+GH82|Headphones|Solo2 Wireless
+GH83|Headphones|Solo2 Wireless
+GH84|Headphones|Solo2 Wireless
 GHFF|Stationary|iMac (27-inch, Late 2013)
 GHJH|Stationary|iMac (21.5-inch, Late 2013)
 GHK9|Tablet|iPad mini 4
+GHKC|Tablet|iPad mini 4
+GHKD|Tablet|iPad mini 4
+GHKF|Tablet|iPad mini 4
+GHKG|Tablet|iPad mini 4
+GHKH|Tablet|iPad mini 4
 GHKJ|Tablet|iPad mini 4
 GHKK|Tablet|iPad mini 4
+GHKL|Tablet|iPad mini 4
+GHMG|Tablet|iPad mini 4 Wi-Fi + Cellular
+GHMH|Tablet|iPad mini 4 Wi-Fi + Cellular
+GHMJ|Tablet|iPad mini 4 Wi-Fi + Cellular
+GHMK|Tablet|iPad mini 4 Wi-Fi + Cellular
+GHML|Tablet|iPad mini 4 Wi-Fi + Cellular
+GHMM|Tablet|iPad mini 4 Wi-Fi + Cellular
 GHMN|Tablet|iPad mini 4 Wi-Fi + Cellular
+GHMP|Tablet|iPad mini 4 Wi-Fi + Cellular
+GHMQ|Tablet|iPad mini 4 Wi-Fi + Cellular
+GHPC|Headphones|urBeats (2nd generation)
+GHPD|Headphones|urBeats (2nd generation)
+GHPF|Headphones|urBeats (2nd generation)
+GHPG|Headphones|urBeats (2nd generation)
+GHPH|Headphones|urBeats (2nd generation)
+GHPJ|Headphones|urBeats (2nd generation)
+GHPK|Headphones|urBeats (2nd generation)
+GHPL|Headphones|urBeats (2nd generation)
+GHPM|Headphones|urBeats (2nd generation)
+GHPN|Headphones|urBeats (2nd generation)
+GHRN|Stationary|Mac mini (Late 2014)
+GHV0|Headphones|Studio (2nd generation)
 GJDC|Stationary|Mac mini (Late 2014)
 GJDM|Stationary|iMac (Retina 5K, 27-inch, Late 2014)
 GJDN|Stationary|iMac (Retina 5K, 27-inch, Late 2014)
@@ -3823,6 +4263,7 @@ GJF|Stationary|Power Mac G4 (AGP Graphics)
 GKJG|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
 GKJM|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
 GKJN|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
+GKJQ|Laptop|MacBook (Retina, 12-inch, Early 2015)
 GKJR|Laptop|MacBook (Retina, 12-inch, Early 2015)
 GKJT|Laptop|MacBook Air (13-inch, Early 2015)
 GKJV|Laptop|MacBook Air (13-inch, Early 2015)
@@ -3837,7 +4278,17 @@ GL1R|Stationary|iMac (Retina 5K, 27-inch, Mid 2015)
 GL1T|Stationary|iMac (Retina 5K, 27-inch, Mid 2015)
 GL1V|Stationary|iMac (Retina 5K, 27-inch, Mid 2015)
 GL1W|Stationary|iMac (Retina 5K, 27-inch, Mid 2015)
+GL20|Laptop|MacBook Air (13-inch, Early 2015)
+GL21|Laptop|MacBook Air (13-inch, Early 2015)
+GL22|Laptop|MacBook Air (13-inch, Early 2015)
+GL23|Laptop|MacBook Air (13-inch, Early 2015)
+GL24|Laptop|MacBook Air (13-inch, Early 2015)
+GL25|Laptop|MacBook Air (13-inch, Early 2015)
+GL26|Laptop|MacBook Air (11-inch, Early 2015)
+GL27|Laptop|MacBook Air (11-inch, Early 2015)
 GL28|Laptop|MacBook Air (11-inch, Early 2015)
+GL29|Laptop|MacBook Air (11-inch, Early 2015)
+GL2C|Laptop|MacBook Air (11-inch, Early 2015)
 GL2D|Laptop|MacBook Air (11-inch, Early 2015)
 GL2F|Laptop|MacBook Air (11-inch, Early 2015)
 GL2H|Laptop|MacBook Air (11-inch, Early 2015)
@@ -3845,16 +4296,31 @@ GL34|Laptop|MacBook Pro (13-inch, Early 2015)
 GL35|Laptop|MacBook Pro (13-inch, Early 2015)
 GL36|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
 GL37|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
+GL5M|Headphones|Powerbeats2 Wireless
+GL5N|Headphones|Powerbeats2 Wireless
+GL5P|Headphones|Powerbeats2 Wireless
+GL5Q|Headphones|Powerbeats2 Wireless
+GL69|Laptop|MacBook (Retina, 12-inch, Early 2015)
 GL6C|Laptop|MacBook (Retina, 12-inch, Early 2015)
 GL6D|Laptop|MacBook (Retina, 12-inch, Early 2015)
 GL6F|Laptop|MacBook (Retina, 12-inch, Early 2015)
 GL6G|Laptop|MacBook (Retina, 12-inch, Early 2015)
 GL6H|Laptop|MacBook (Retina, 12-inch, Early 2015)
+GLC4|Headphones|Powerbeats2 Wireless
+GLC5|Headphones|Powerbeats2 Wireless
+GLC6|Headphones|Powerbeats2 Wireless
+GLC7|Headphones|Solo2 Wireless
+GLC8|Headphones|Solo2 Wireless
+GLC9|Headphones|Solo2 Wireless
 GLCN|Laptop|MacBook Air (13-inch, Early 2015)
 GLCP|Laptop|MacBook Air (13-inch, Early 2015)
 GLCQ|Laptop|MacBook Air (11-inch, Early 2015)
+GLK7|Laptop|MacBook Air (13-inch, Early 2014)
+GLK8|Laptop|MacBook Air (13-inch, Early 2014)
+GLK9|Laptop|MacBook Air (11-inch, Early 2014)
 GM0V|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
 GM0W|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
+GM0Y|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
 GM10|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
 GM11|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
 GM12|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
@@ -3865,6 +4331,8 @@ GM16|Mp3Player|iPod touch (6th generation)
 GM17|Mp3Player|iPod touch (6th generation)
 GM18|Mp3Player|iPod touch (6th generation)
 GM19|Mp3Player|iPod touch (6th generation)
+GM1C|Mp3Player|iPod touch (6th generation)
+GM1D|Mp3Player|iPod touch (6th generation)
 GM38|Laptop|MacBook Air (13-inch, Early 2015)
 GM6M|Laptop|MacBook Air (13-inch, Early 2015)
 GM8|Stationary|Power Mac G4 Server (QuickSilver 2002)
@@ -3878,19 +4346,44 @@ GMC7|Laptop|MacBook Air (11-inch, Early 2015)
 GMC8|Laptop|MacBook Air (11-inch, Early 2015)
 GMC9|Laptop|MacBook Air (11-inch, Early 2015)
 GMD|Stationary|iMac (266 MHz)
+GMD3|Laptop|MacBook Air (13-inch, Early 2015)
+GMDF|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
 GMLD|Tablet|iPad Pro
 GMLF|Tablet|iPad Pro
 GMLG|Tablet|iPad Pro
+GMLL|Tablet|iPad Pro
+GMLM|Tablet|iPad Pro
+GMLN|Tablet|iPad Pro
+GMLT|Tablet|iPad Pro
+GMLV|Tablet|iPad Pro
+GMLW|Tablet|iPad Pro
+GMW3|Tablet|iPad Pro Wi-Fi + Cellular
+GMW4|Tablet|iPad Pro Wi-Fi + Cellular
+GMW5|Tablet|iPad Pro Wi-Fi + Cellular
+GMW6|Tablet|iPad Pro Wi-Fi + Cellular
+GMW7|Tablet|iPad Pro Wi-Fi + Cellular
+GMW8|Tablet|iPad Pro Wi-Fi + Cellular
+GMYQ|Headphones|Studio Wireless
+GMYR|Headphones|Studio Wireless
+GMYT|Headphones|Studio Wireless
+GMYV|Headphones|Studio Wireless
+GMYW|Headphones|Studio Wireless
+GMYY|Headphones|Studio Wireless
+GN02|Stationary|Mac mini (Late 2014)
+GN24|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
 GN8C|Laptop|MacBook Air (13-inch, Early 2015)
 GND|Laptop|MacBook Pro (15-inch, Mid 2010)
 GNE|Laptop|MacBook Pro (15-inch, Mid 2010)
 GNF|Laptop|MacBook Pro (13-inch, Mid 2010)
 GNG|Laptop|MacBook Pro (13-inch, Mid 2010)
 GNH|Laptop|MacBook Pro (13-inch, Mid 2010)
+GNJG|Laptop|MacBook Air (11-inch, Early 2015)
 GNJJ|Laptop|MacBook Air (13-inch, Early 2015)
 GNJK|Laptop|MacBook Air (11-inch, Early 2015)
 GNJL|Laptop|MacBook Air (11-inch, Early 2015)
 GNK|Laptop|MacBook Pro (15-inch, Mid 2010)
+GNKM|Laptop|MacBook Air (13-inch, Early 2015)
+GNL0|Stationary|Mac mini (Late 2014)
 GNW|Laptop|MacBook Pro (15-inch, Mid 2010)
 GNX|Laptop|MacBook Pro (15-inch, Mid 2010)
 GNY|Laptop|MacBook Pro (15-inch, Mid 2010)
@@ -3905,8 +4398,14 @@ GP4P|Laptop|MacBook Air (11-inch, Early 2014)
 GP6|Laptop|MacBook (13-inch, Mid 2010)
 GPH|Laptop|MacBook Pro (15-inch, Mid 2010)
 GPJ|Laptop|MacBook Pro (13-inch, Mid 2010)
+GPJN|Stationary|iMac (Retina 5K, 27-inch, Late 2014)
 GPK|Laptop|MacBook Pro (13-inch, Mid 2010)
+GPKK|Headphones|Studio Wireless
+GPKL|Headphones|Studio Wireless
 GPL|Laptop|MacBook Pro (13-inch, Mid 2010)
+GPLM|Laptop|MacBook Pro (Retina, 15-inch, Mid 2015)
+GPLN|Laptop|MacBook Pro (Retina, 15-inch, Mid 2015)
+GPLP|Laptop|MacBook Pro (Retina, 15-inch, Mid 2015)
 GPM|Laptop|MacBook Pro (13-inch, Mid 2010)
 GPN|Laptop|MacBook Pro (15-inch, Mid 2010)
 GPP|Laptop|MacBook Pro (15-inch, Mid 2010)
@@ -3925,6 +4424,10 @@ GQ1|Laptop|MacBook Pro (15-inch, Mid 2010)
 GQ17|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 GQ18|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 GQ62|Laptop|MacBook Pro (Retina, 15-inch, Mid 2015)
+GQ63|Laptop|MacBook Pro (Retina, 15-inch, Mid 2015)
+GQ64|Laptop|MacBook Pro (Retina, 15-inch, Mid 2015)
+GQ65|Headphones|Powerbeats3 Wireless
+GQ66|Headphones|Powerbeats3 Wireless
 GQ7|Stationary|iMac (266 MHz)
 GQA|Stationary|iMac (21.5-inch, Mid 2010)
 GQCL|Laptop|MacBook Pro (Retina, 15-inch, Mid 2015)
@@ -3933,18 +4436,49 @@ GQCP|Laptop|MacBook Pro (Retina, 15-inch, Mid 2015)
 GQCQ|Laptop|MacBook Pro (Retina, 15-inch, Mid 2015)
 GQCR|Laptop|MacBook Pro (Retina, 15-inch, Mid 2015)
 GQCT|Laptop|MacBook Pro (Retina, 15-inch, Mid 2015)
+GQCX|Stationary|iMac (27-inch, Late 2013)
+GQDV|Headphones|EP
+GQDX|Headphones|EP
+GQDY|Headphones|EP
+GQF0|Headphones|EP
+GQF7|Headphones|Solo 2
+GQF8|Headphones|Solo 2
+GQF9|Headphones|Solo 2
 GQH|Stationary|iMac (21.5-inch, Mid 2010)
 GQJ|Stationary|iMac (27-inch, Mid 2010)
 GQK|Stationary|iMac (27-inch, Mid 2010)
 GQL|Laptop|MacBook Pro (15-inch, Mid 2010)
 GQM|Laptop|MacBook Pro (15-inch, Mid 2010)
 GQN|Laptop|MacBook Pro (15-inch, Mid 2010)
+GQQT|Other|Siri Remote
 GQR4|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
 GQR5|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
 GQR6|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
 GQU|Server|Xserve(Early 2009)
+GR18|Headphones|Solo 2
+GR6H|Headphones|Studio Wireless
 GR7|Laptop|MacBook Pro (15-inch, Mid 2010)
+GR79|Watch|Apple Watch 38mm Aluminum (1st gen)
+GR7C|Watch|Apple Watch 38mm Aluminum (1st gen)
+GR7M|Watch|Apple Watch 42mm Aluminum (1st gen)
+GR7N|Watch|Apple Watch 42mm Aluminum (1st gen)
+GR7R|Watch|Apple Watch 38mm Hermes (1st gen)
 GR8|Laptop|MacBook Pro (13-inch, Mid 2010)
+GR81|Watch|Apple Watch 42mm Hermes (1st gen)
+GR88|Laptop|MacBook (Retina, 12-inch, Early 2015)
+GR89|Laptop|MacBook (Retina, 12-inch, Early 2015)
+GR8C|Laptop|MacBook (Retina, 12-inch, Early 2015)
+GR8D|Laptop|MacBook (Retina, 12-inch, Early 2015)
+GR8F|Laptop|MacBook (Retina, 12-inch, Early 2015)
+GR8G|Laptop|MacBook (Retina, 12-inch, Early 2015)
+GR8J|Phone|iPhone 6s Smart Battery Case
+GR8K|Phone|iPhone 6s Smart Battery Case
+GR8L|Phone|iPhone 6s Smart Battery Case
+GR8M|Phone|iPhone 6s Smart Battery Case
+GR8N|Phone|iPhone 6s Smart Battery Case
+GR8P|Phone|iPhone 6s Smart Battery Case
+GR8Q|Phone|iPhone 6s Smart Battery Case
+GR8R|Phone|iPhone 6s Smart Battery Case
 GRC|Laptop|MacBook Pro (15-inch, Mid 2010)
 GRD|Laptop|MacBook Pro (15-inch, Mid 2010)
 GRE|Laptop|MacBook Pro (15-inch, Mid 2010)
@@ -3953,6 +4487,8 @@ GRM|Stationary|iMac (333 GHz)
 GRN|Stationary|iMac (333 GHz)
 GRP|Stationary|iMac (27-inch, Late 2009)
 GRQ|Stationary|iMac (27-inch, Mid 2010)
+GRT3|Watch|Apple Watch 42mm Gold (1st gen)
+GRTV|Stationary|iMac (27-inch, Late 2013)
 GRWD|Phone|iPhone 6s Plus
 GRWF|Phone|iPhone 6s Plus
 GRWH|Phone|iPhone 6s Plus
@@ -4011,9 +4547,11 @@ GTDX|Laptop|MacBook Pro (13-inch, Late 2016, Four Thunderbolt 3 Ports)
 GTDY|Laptop|MacBook Pro (15-inch, Late 2016)
 GTF1|Laptop|MacBook Pro (15-inch, Late 2016)
 GTFJ|Laptop|MacBook Pro (13-inch, Late 2016, Four Thunderbolt 3 Ports)
+GTFK|Laptop|MacBook Pro (13-inch, 2016, Four Thunderbolt 3 Ports)
 GTFL|Laptop|MacBook Pro (15-inch, Late 2016)
 GTFM|Laptop|MacBook Pro (15-inch, Late 2016)
 GTFN|Laptop|MacBook Pro (15-inch, Late 2016)
+GTGW|Laptop|MacBook (Retina, 12-inch, Early 2016)
 GTHR|Laptop|MacBook (Retina, 12-inch, Early 2016)
 GTHT|Laptop|MacBook (Retina, 12-inch, Early 2016)
 GTHV|Laptop|MacBook (Retina, 12-inch, Early 2016)
@@ -4035,6 +4573,8 @@ GTM|Stationary|iMac (21.5-inch, Mid 2010)
 GTN|Stationary|iMac (21.5-inch, Mid 2010)
 GTP|Stationary|iMac (27-inch, Mid 2010)
 GTQ|Stationary|iMac (27-inch, Mid 2010)
+GTVM|Headphones|Solo2 Wireless
+GTVN|Headphones|Powerbeats2 Wireless
 GUH|Stationary|Power Mac G4 Server
 GUJ|Stationary|Power Mac G4 Server
 GUP|Laptop|MacBook (13-inch, Mid 2010)
@@ -4056,19 +4596,31 @@ GV4|Stationary|iMac (333 GHz)
 GV5|Stationary|iMac (333 GHz)
 GV6|Stationary|iMac (333 GHz)
 GV7|Stationary|iMac (333 GHz)
+GV7V|Stationary|iMac (Retina 5K, 27-inch, Late 2014)
 GV8|Stationary|iMac (333 GHz)
 GV9|Stationary|iMac (333 GHz)
 GVC1|Laptop|MacBook Pro (13-inch, Late 2016, Two Thunderbolt 3 ports)
 GVC8|Laptop|MacBook Pro (13-inch, Late 2016, Two Thunderbolt 3 ports)
 GVK|Stationary|iMac (333 GHz)
+GVKC|Headphones|Powerbeats2 Wireless
+GVKD|Headphones|Solo2 Wireless
 GVV|Stationary|iMac (21.5-inch, Mid 2010)
 GVW|Stationary|iMac (27-inch, Mid 2010)
 GVX|Stationary|iMac (27-inch, Mid 2010)
 GVY|Stationary|iMac (21.5-inch, Mid 2010)
+GW0V|Stationary|iMac (27-inch, Late 2013)
+GW0W|Stationary|iMac (27-inch, Late 2013)
 GWDN|Laptop|MacBook Pro (Retina, 15-inch, Mid 2015)
 GWDP|Laptop|MacBook Pro (Retina, 15-inch, Mid 2015)
+GWJ2|Stylus|Apple Pencil
+GWL6|Headphones|Solo2 Wireless
+GWL7|Headphones|Solo2 Wireless
+GWL8|Headphones|urBeats (2nd generation)
+GWLC|Headphones|Studio Wireless
 GWQ|Stationary|iMac (27-inch, Mid 2010)
 GWR|Stationary|Mac Pro (Mid 2010)
+GWTJ|Stylus|Apple Pencil
+GWTL|Keyboard|Smart Keyboard
 GX0|Stationary|iMac (21.5-inch, Mid 2010)
 GX1|Stationary|iMac (21.5-inch, Mid 2010)
 GX2|Stationary|iMac (27-inch, Mid 2010)
@@ -4079,7 +4631,23 @@ GXA|Stationary|iMac (27-inch, Mid 2010)
 GXB|Stationary|iMac (27-inch, Mid 2010)
 GXC|Stationary|iMac (27-inch, Mid 2010)
 GXD|Stationary|iMac (27-inch, Mid 2010)
+GXD0|Other|Siri Remote
+GXD2|Other|Siri Remote
+GXD3|Other|Siri Remote
+GXD4|Other|Siri Remote
+GXH8|MediaPlayer|Apple TV HD
+GXHN|Other|Siri Remote
+GXPX|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+GXPY|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+GXQ0|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+GXQ4|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+GXQ5|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+GXQ6|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+GXQ7|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+GXQ8|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+GXQ9|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
 GXU|Stationary|iMac (27-inch, Mid 2010)
+GY0W|Other|Siri Remote
 GY25|Laptop|MacBook Pro (13-inch, Late 2016, Two Thunderbolt 3 ports)
 GY5|Stationary|Mac Pro (Mid 2010)
 GY6|Stationary|iMac (21.5-inch, Mid 2010)
@@ -4116,8 +4684,10 @@ H0C|Stationary|iMac (21.5-inch, Mid 2010)
 H0E|Display|Apple Studio Display 21 inch, CRT
 H0G|Stationary|iMac (333 GHz)
 H0H|Stationary|iMac (333 GHz)
+H0HJ|Stationary|iMac (21.5-inch, Late 2013)
 H0J|Stationary|iMac (333 GHz)
 H0K|Stationary|iMac (333 GHz)
+H0KF|Stationary|iMac (Retina 4K, 21.5-inch, Late 2015)
 H0M|Stationary|iMac (333 GHz)
 H0N6|Stationary|iMac (21.5-inch, Late 2015)
 H0P6|Stationary|iMac (21.5-inch, Late 2015)
@@ -4126,6 +4696,9 @@ H0Q3|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 H0Q4|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 H0Q5|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 H0X|Stationary|Mac Pro (Mid 2010)
+H15R|Stationary|iMac (Retina 4K, 21.5-inch, Late 2015)
+H1DK|Laptop|MacBook Pro (13-inch, Mid 2012)
+H1DN|Laptop|MacBook Pro (13-inch, Mid 2012)
 H1DP|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
 H1DQ|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
 H1DV|MediaPlayer|Apple TV (4th generation)
@@ -4139,16 +4712,47 @@ H1F5|Stationary|iMac (Retina 4K, 21.5-inch, Late 2015)
 H1F7|Stationary|iMac (Retina 4K, 21.5-inch, Late 2015)
 H1F8|Stationary|iMac (Retina 4K, 21.5-inch, Late 2015)
 H1F9|Stationary|iMac (Retina 4K, 21.5-inch, Late 2015)
+H1H9|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 H1M9|Tablet|iPad Pro (9.7-inch)
+H1MC|Tablet|iPad Pro (9.7-inch)
+H1MD|Tablet|iPad Pro (9.7-inch)
+H1MJ|Tablet|iPad Pro (9.7-inch)
 H1MK|Tablet|iPad Pro (9.7-inch)
+H1ML|Tablet|iPad Pro (9.7-inch)
+H1MM|Tablet|iPad Pro (9.7-inch)
+H1MN|Tablet|iPad Pro (9.7-inch)
+H1MP|Tablet|iPad Pro (9.7-inch)
+H1MR|Tablet|iPad Pro (9.7-inch)
+H1MV|Tablet|iPad Pro (9.7-inch)
+H1MW|Tablet|iPad Pro (9.7-inch)
 H1S|Stationary|iMac (20-inch, Mid 2009)
+H1WK|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
+H1WR|Stationary|iMac (21.5-inch, Late 2015)
 H1X|Stationary|iMac (21.5-inch, Mid 2010)
 H1Z|Stationary|iMac (21.5-inch, Mid 2010)
 H20|Stationary|iMac (27-inch, Mid 2010)
 H21|Stationary|iMac (27-inch, Mid 2010)
 H22|Stationary|iMac (27-inch, Mid 2010)
+H226|Stationary|iMac (21.5-inch, Late 2013)
+H23F|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+H23X|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+H23Y|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+H240|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+H245|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+H246|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+H247|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+H248|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+H249|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+H24C|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+H24D|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+H24F|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+H256|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+H258|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
+H259|Tablet|iPad Pro (9.7-inch, Wi-Fi + Cellular)
 H25M|Stationary|iMac (21.5-inch, Late 2015)
 H25N|Stationary|iMac (Retina 4K, 21.5-inch, Late 2015)
+H28H|Stationary|iMac (Retina 4K, 21.5-inch, Late 2015)
+H2KW|Stationary|iMac (21.5-inch, Late 2015)
 H2N|Stationary|Mac Pro (Mid 2010)
 H2P|Stationary|Mac Pro (Mid 2010)
 H2XG|Phone|iPhone SE
@@ -4167,6 +4771,8 @@ H2XW|Phone|iPhone SE
 H2XX|Phone|iPhone SE
 H2Y7|Phone|iPhone SE
 H2Y8|Phone|iPhone SE
+H2YQ|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
+H3GN|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 H3GP|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 H3GQ|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 H3GR|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
@@ -4185,6 +4791,8 @@ H3H6|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 H3H7|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 H3H8|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 H3H9|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
+H3HC|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
+H3HD|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 H3HF|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 H3HG|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 H3HH|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
@@ -4199,9 +4807,35 @@ H3QY|Laptop|MacBook (Retina, 12-inch, Early 2016)
 H3R5|Laptop|MacBook (Retina, 12-inch, Early 2016)
 H3R6|Laptop|MacBook (Retina, 12-inch, Early 2016)
 H3R7|Laptop|MacBook (Retina, 12-inch, Early 2016)
+H3RJ|Stationary|iMac (Retina 4K, 21.5-inch, Late 2015)
+H4JM|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
+H4LL|Headphones|Studio Wireless
+H4LM|Headphones|Studio Wireless
+H4LP|Headphones|Studio Wireless
+H4LQ|Headphones|Studio Wireless
+H4LR|Headphones|Studio Wireless
+H4LV|Headphones|Studio Wireless
+H4LY|Headphones|Studio Wireless
 H4M|Software|Final Cut Pro 1.2
+H4M0|Headphones|Studio Wireless
+H4M2|Headphones|Studio Wireless
+H4M5|Headphones|Studio Wireless
+H4M7|Headphones|Solo2 Wireless
+H4M8|Headphones|Solo2 Wireless
+H4M9|Headphones|Solo2 Wireless
+H4MD|Headphones|Solo2 Wireless
+H4MF|Headphones|Solo2 Wireless
+H4MG|Headphones|Solo2 Wireless
+H4MH|Headphones|Solo2 Wireless
+H4MJ|Headphones|Solo2 Wireless
+H4ML|Headphones|Solo2 Wireless
+H4MM|Headphones|Solo2 Wireless
+H4MN|Headphones|Solo2 Wireless
+H4MR|Headphones|Solo2 Wireless
 H4N|Software|Final Cut Pro 1.2
+H4NC|Headphones|Powerbeats2 Wireless
 H569|Laptop|MacBook Air (13-inch, Early 2015)
+H5DN|Stationary|iMac (Retina 5K, 27-inch, Late 2014)
 H5E|Display|Apple Studio Display 21 inch, CRT
 H5F|Display|Apple Studio Display 21 inch, CRT
 H5G|Display|Apple Studio Display 17 inch, CRT
@@ -4215,6 +4849,7 @@ H5Y|Software|AppleShare IP 6.3
 H60|Laptop|PowerBook G3 Series (Bronze Keyboard)
 H61|Laptop|PowerBook G3 Series (Bronze Keyboard)
 H68|Stationary|iMac (333 GHz)
+H682|Stationary|iMac (Retina 5K, 27-inch, Late 2014)
 H69|Stationary|iMac (333 GHz)
 H6A|Software|Final Cut Pro 1.2
 H6B|Software|Final Cut Pro 1.2
@@ -4224,7 +4859,19 @@ H78|Laptop|iBook
 H79|Laptop|iBook
 H7D|Stationary|Power Mac G4 (PCI Graphics)
 H7JY|Stationary|iMac (21.5-inch, 2017)
+H7K0|Stationary|iMac (21.5-inch, 2017)
+H7VF|Stationary|iMac (21.5-inch, 2017)
+H7VG|Stationary|iMac (21.5-inch, 2017)
 H7W|Stationary|Power Mac G4 (PCI Graphics)
+H84M|Stationary|Mac mini (Late 2014)
+H8CY|Keyboard|Smart Keyboard
+H8D0|Keyboard|Smart Keyboard
+H8D1|Keyboard|Smart Keyboard
+H8D2|Keyboard|Smart Keyboard
+H8D3|Keyboard|Smart Keyboard
+H8D4|Keyboard|Smart Keyboard
+H8D5|Keyboard|Smart Keyboard
+H8D6|Keyboard|Smart Keyboard
 H8H|Stationary|iMac (27-inch, Mid 2010)
 H8KX|Stationary|iMac (21.5-inch, Late 2015)
 H8KY|Stationary|iMac (Retina 4K, 21.5-inch, Late 2015)
@@ -4235,6 +4882,16 @@ H8L3|Stationary|iMac (Retina 4K, 21.5-inch, Late 2015)
 H8L5|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 H8L6|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 H8P|Stationary|iMac (27-inch, Mid 2010)
+H8TT|Headphones|AirPods (1st generation)
+H8VD|Headphones|Solo3 Wireless
+H8VF|Headphones|Solo3 Wireless
+H8VG|Headphones|Solo3 Wireless
+H8VH|Headphones|Solo3 Wireless
+H8VJ|Headphones|Solo3 Wireless
+H8VT|Laptop|MacBook Air (13-inch, Early 2015)
+H8VV|Laptop|MacBook Air (13-inch, Early 2015)
+H8VW|Laptop|MacBook Air (13-inch, Early 2015)
+H8VX|Laptop|MacBook Air (13-inch, Early 2015)
 H8Y|Stationary|Power Mac G4 (PCI Graphics)
 H90|Stationary|iMac DV (Slot Loading)
 H93|Router|AirPort Base Station
@@ -4283,11 +4940,13 @@ HBY|Display|Apple Studio Display 17 inch, ADC
 HC2|Stationary|iMac (27-inch, Mid 2010)
 HC4|Stationary|iMac (27-inch, Mid 2010)
 HC5|Stationary|iMac (333 GHz)
+HC5R|Headphones|Powerbeats2 Wireless
 HC6|Stationary|iMac (27-inch, Mid 2010)
 HCF|Stationary|iMac (21.5-inch, Mid 2010)
 HCJ|Stationary|iMac (21.5-inch, Mid 2010)
 HCK|Stationary|iMac (21.5-inch, Mid 2010)
 HCL|Stationary|iMac DV (Slot Loading)
+HCL5|Stationary|Mac mini (Late 2014)
 HCM|Stationary|iMac DV (Slot Loading)
 HCN|Stationary|iMac DV (Slot Loading)
 HCP|Stationary|iMac DV (Slot Loading)
@@ -4301,12 +4960,27 @@ HCY|Stationary|iMac DV Special Edition (Slot Loading)
 HD0|Stationary|iMac DV Special Edition (Slot Loading)
 HD1|Stationary|iMac DV (Slot Loading)
 HD2|Stationary|iMac DV (Slot Loading)
+HD21|Keyboard|Smart Keyboard
+HD22|Keyboard|Smart Keyboard
+HD23|Keyboard|Smart Keyboard
+HD24|Keyboard|Smart Keyboard
+HD25|Keyboard|Smart Keyboard
+HD26|Keyboard|Smart Keyboard
+HD27|Keyboard|Smart Keyboard
+HD28|Keyboard|Smart Keyboard
+HD29|Keyboard|Smart Keyboard
+HD2C|Keyboard|Smart Keyboard
+HD2F|Keyboard|Smart Keyboard
 HD3|Stationary|iMac DV (Slot Loading)
 HD4|Stationary|iMac DV (Slot Loading)
 HD6|Stationary|iMac DV (Slot Loading)
 HD7|Stationary|iMac DV (Slot Loading)
+HD7X|Laptop|MacBook Air (13-inch, Early 2015)
 HD8|Stationary|iMac DV (Slot Loading)
+HD80|Laptop|MacBook Air (13-inch, Early 2015)
+HD8M|Laptop|MacBook (Retina, 12-inch, Early 2016)
 HD9|Stationary|iMac DV (Slot Loading)
+HD98|Laptop|MacBook Air (13-inch, Early 2015)
 HDB|Stationary|iMac DV (Slot Loading)
 HDC|Stationary|iMac DV (Slot Loading)
 HDD|Stationary|iMac DV (Slot Loading)
@@ -4315,8 +4989,29 @@ HDF|Stationary|iMac (21.5-inch, Late 2009)
 HDG|Stationary|iMac DV (Slot Loading)
 HDH|Stationary|iMac DV (Slot Loading)
 HDK|Stationary|iMac DV (Slot Loading)
+HDNK|Laptop|MacBook (Retina, 12-inch, Early 2016)
+HDQX|Headphones|Powerbeats3 Wireless
 HDR|Laptop|PowerBook (FireWire)
+HDR2|Headphones|Powerbeats3 Wireless
+HDR3|Headphones|Powerbeats3 Wireless
 HDS|Laptop|PowerBook (FireWire)
+HDV4|Laptop|MacBook Air (13-inch, Early 2015)
+HDV5|Laptop|MacBook Air (13-inch, Early 2015)
+HDV6|Laptop|MacBook Air (13-inch, Early 2015)
+HDX5|Watch|Apple Watch Series 2 Aluminum 38mm (2nd gen)
+HDX7|Watch|Apple Watch Series 2 Aluminum 38mm (2nd gen)
+HDX9|Watch|Apple Watch Series 2 Aluminum 38mm (2nd gen)
+HDXD|Watch|Apple Watch Series 2 Stainless Steel 38mm (2nd gen)
+HDXL|Watch|Apple Watch Series 2 Stainless Steel 38mm (2nd gen)
+HDXP|Watch|Apple Watch Series 2 Edition 38mm (2nd gen)
+HDXV|Watch|Apple Watch Series 2 Aluminum 42mm (2nd gen)
+HDXX|Watch|Apple Watch Series 2 Aluminum 42mm (2nd gen)
+HDY0|Watch|Apple Watch Series 2 Aluminum 42mm (2nd gen)
+HDY2|Watch|Apple Watch Series 2 Edition 42mm (2nd gen)
+HDY3|Watch|Apple Watch Series 2 Stainless Steel 42mm (2nd gen)
+HDY9|Watch|Apple Watch Series 2 Stainless Steel 42mm (2nd gen)
+HDYF|Watch|Apple Watch Series 2 Hermes 42mm (2nd gen)
+HDYM|Watch|Apple Watch Series 2 Hermes 38mm (2nd gen)
 HE5|Laptop|iBook
 HE6|Laptop|MacBook Pro (15-inch, Mid 2010)
 HEA|Stationary|Power Mac G4 (PCI Graphics)
@@ -4325,22 +5020,57 @@ HED|Stationary|Power Mac G4 (PCI Graphics)
 HEG|Stationary|iMac (Slot Loading)
 HEK|Stationary|Power Mac G4 (PCI Graphics)
 HES|Stationary|Power Mac G4 (AGP Graphics)
+HF12|Watch|Apple Watch Series 1 38mm (2nd gen)
+HF1C|Watch|Apple Watch Series 1 38mm (2nd gen)
+HF1D|Watch|Apple Watch Series 1 38mm (2nd gen)
+HF1G|Watch|Apple Watch Series 1 42mm (2nd gen)
+HF1H|Watch|Apple Watch Series 1 42mm (2nd gen)
+HF1J|Watch|Apple Watch Series 1 42mm (2nd gen)
 HF1L|Watch|Apple Watch Series 2 Nike + 38mm (2nd gen)
 HF1N|Watch|Apple Watch Series 2 Nike + 42mm (2nd gen)
 HF1P|Laptop|MacBook Pro (13-inch, Late 2016, Four Thunderbolt 3 Ports)
 HF1Q|Laptop|MacBook Pro (13-inch, Late 2016, Four Thunderbolt 3 Ports)
 HF1R|Laptop|MacBook Pro (13-inch, Late 2016, Four Thunderbolt 3 Ports)
 HF1T|Laptop|MacBook Pro (13-inch, Late 2016, Four Thunderbolt 3 Ports)
+HF41|Keyboard|Smart Keyboard
+HF42|Keyboard|Smart Keyboard
+HF43|Keyboard|Smart Keyboard
 HF4F|Laptop|MacBook Air (13-inch, Early 2015)
 HF4H|Laptop|MacBook Air (13-inch, Early 2015)
+HF6H|Watch|Apple Watch Series 2 Aluminum 38mm (2nd gen)
+HF6J|Watch|Apple Watch Series 2 Aluminum 38mm (2nd gen)
+HF6K|Watch|Apple Watch Series 2 Aluminum 38mm (2nd gen)
+HF6L|Watch|Apple Watch Series 2 Stainless Steel 38mm (2nd gen)
+HF6M|Watch|Apple Watch Series 2 Stainless Steel 38mm (2nd gen)
+HF6N|Watch|Apple Watch Series 2 Edition 38mm (2nd gen)
+HF6Q|Watch|Apple Watch Series 2 Aluminum 42mm (2nd gen)
+HF6R|Watch|Apple Watch Series 2 Aluminum 42mm (2nd gen)
+HF6T|Watch|Apple Watch Series 2 Aluminum 42mm (2nd gen)
+HF6V|Watch|Apple Watch Series 2 Stainless Steel 42mm (2nd gen)
+HF6W|Watch|Apple Watch Series 2 Stainless Steel 42mm (2nd gen)
+HF6X|Watch|Apple Watch Series 2 Edition 42mm (2nd gen)
 HF7|Stationary|Mac Pro (Mid 2010)
+HF70|Watch|Apple Watch Series 2 Nike + 38mm (2nd gen)
+HF72|Watch|Apple Watch Series 2 Nike + 42mm (2nd gen)
+HF74|Watch|Apple Watch Series 2 Hermes 38mm (2nd gen)
+HF75|Watch|Apple Watch Series 2 Hermes 42mm (2nd gen)
 HF8|Stationary|Mac Pro (Mid 2010)
 HF9|Stationary|Mac Pro (Mid 2010)
+HF9N|Laptop|MacBook Air (13-inch, Early 2015)
+HF9V|Keyboard|Smart Keyboard
 HFA|Stationary|Mac Pro (Mid 2010)
 HFC|Stationary|Mac Pro (Mid 2010)
+HFCN|Keyboard|Smart Keyboard
+HFCP|Keyboard|Smart Keyboard
+HFCQ|Keyboard|Smart Keyboard
+HFCR|Keyboard|Smart Keyboard
+HFCT|Keyboard|Smart Keyboard
+HFCV|Keyboard|Smart Keyboard
+HFCW|Keyboard|Smart Keyboard
 HFD|Stationary|Mac Pro (Mid 2010)
 HFF|Stationary|Mac Pro (Mid 2010)
 HFG|Stationary|Mac Pro (Mid 2010)
+HFG7|Laptop|MacBook Pro (Retina, 15-inch, Mid 2015)
 HFJ|Stationary|Mac Pro (Mid 2010)
 HFK|Stationary|Mac Pro (Mid 2010)
 HFL|Stationary|Mac Pro (Mid 2010)
@@ -4409,8 +5139,13 @@ HG0C|Phone|iPhone 7 Plus
 HG0F|Phone|iPhone 7 Plus
 HG1|Stationary|Mac Pro (Mid 2010)
 HG3|Stationary|Mac Pro (Mid 2010)
+HG57|Keyboard|Smart Keyboard
 HG5D|Tablet|iPad Air 2
 HG5F|Tablet|iPad Air 2
+HG5G|Tablet|iPad Air 2
+HG6R|Tablet|iPad Air 2 Wi-Fi + Cellular
+HG6T|Tablet|iPad Air 2 Wi-Fi + Cellular
+HG6V|Tablet|iPad Air 2 Wi-Fi + Cellular
 HG6W|Phone|iPhone 7
 HG6X|Phone|iPhone 7
 HG6Y|Phone|iPhone 7
@@ -4453,22 +5188,47 @@ HG88|Phone|iPhone 7
 HG89|Phone|iPhone 7
 HG8C|Phone|iPhone 7
 HG8D|Phone|iPhone 7
+HGC3|Tablet|iPad mini 4 Wi-Fi + Cellular
 HGC4|Tablet|iPad mini 4 Wi-Fi + Cellular
+HGC5|Tablet|iPad mini 4 Wi-Fi + Cellular
 HGD|Stationary|Power Mac G4 Server
 HGE|Stationary|Power Mac G4 Server
 HGF|Stationary|Power Mac G4 Server
 HGJ1|Tablet|iPad mini 4
+HGJ2|Tablet|iPad mini 4
+HGJ3|Tablet|iPad mini 4
 HGN|Software|AppleShare IP 6.3
 HGP|Software|AppleShare IP 6.3
 HGU|Stationary|Power Mac G4 (AGP Graphics)
+HH21|Laptop|MacBook (Retina, 12-inch, 2017)
 HH22|Laptop|MacBook (Retina, 12-inch, 2017)
+HH23|Laptop|MacBook (Retina, 12-inch, 2017)
+HH24|Laptop|MacBook (Retina, 12-inch, 2017)
+HH25|Laptop|MacBook (Retina, 12-inch, 2017)
+HH26|Laptop|MacBook (Retina, 12-inch, 2017)
+HH27|Laptop|MacBook (Retina, 12-inch, 2017)
+HH28|Laptop|MacBook (Retina, 12-inch, 2017)
+HH29|Laptop|MacBook (Retina, 12-inch, 2017)
+HH2C|Laptop|MacBook (Retina, 12-inch, 2017)
+HH2D|Laptop|MacBook (Retina, 12-inch, 2017)
+HH2F|Laptop|MacBook (Retina, 12-inch, 2017)
+HH2G|Laptop|MacBook (Retina, 12-inch, 2017)
+HH2H|Laptop|MacBook (Retina, 12-inch, 2017)
+HH2J|Laptop|MacBook (Retina, 12-inch, 2017)
+HH2K|Laptop|MacBook (Retina, 12-inch, 2017)
 HHC|Stationary|Power Mac G4 (PCI Graphics)
 HHD|Stationary|Power Mac G4 (PCI Graphics)
 HHF|Stationary|Power Mac G4 (PCI Graphics)
 HHG|Stationary|Power Mac G4 (AGP Graphics)
+HHMG|Stationary|iMac (21.5-inch, Late 2015)
+HHYK|Watch|Apple Watch Series 2 Nike + 38mm (2nd gen)
+HHYL|Watch|Apple Watch Series 2 Nike + 42mm (2nd gen)
 HJ4|Stationary|iMac (21.5-inch, Mid 2010)
 HJ6|Stationary|iMac (21.5-inch, Mid 2010)
 HJ7|Stationary|iMac (27-inch, Mid 2010)
+HJ7X|Phone|iPhone 7 Smart Battery Case
+HJ7Y|Phone|iPhone 7 Smart Battery Case
+HJ80|Phone|iPhone 7 Smart Battery Case
 HJ9|Stationary|Power Mac G4 (PCI Graphics)
 HJA|Stationary|iMac (27-inch, Mid 2010)
 HJC|Stationary|iMac (27-inch, Mid 2010)
@@ -4476,11 +5236,21 @@ HJE|Stationary|iMac (21.5-inch, Mid 2010)
 HJG|Stationary|iMac (21.5-inch, Mid 2010)
 HJH|Stationary|iMac (27-inch, Mid 2010)
 HJJ|Stationary|iMac (27-inch, Mid 2010)
+HJJF|Keyboard|Smart Keyboard
+HJLC|Watch|Apple Watch Series 2 Nike + 38mm (2nd gen)
+HJLD|Watch|Apple Watch Series 2 Nike + 42mm (2nd gen)
+HJLF|Watch|Apple Watch Series 1 38mm (2nd gen)
+HJLG|Watch|Apple Watch Series 1 42mm (2nd gen)
+HJLJ|Watch|Apple Watch Series 2 Aluminum 42mm (2nd gen)
+HJLL|Watch|Apple Watch Series 2 Aluminum 38mm (2nd gen)
+HJLR|Watch|Apple Watch Series 2 Aluminum 38mm (2nd gen)
+HJLT|Watch|Apple Watch Series 2 Aluminum 42mm (2nd gen)
 HJM|Stationary|Power Mac G4 (PCI Graphics)
 HJN|Stationary|Power Mac G4 (PCI Graphics)
 HJP|Stationary|Power Mac G4 (PCI Graphics)
 HJQ|Stationary|iMac (27-inch, Mid 2010)
 HJR|Stationary|iMac (27-inch, Mid 2010)
+HJRN|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 HJS|Stationary|iMac (21.5-inch, Mid 2010)
 HJT|Stationary|Power Mac G4 (PCI Graphics)
 HJU|Stationary|Power Mac G4 (PCI Graphics)
@@ -4488,8 +5258,13 @@ HJV|Stationary|iMac (21.5-inch, Mid 2010)
 HJW|Stationary|iMac (21.5-inch, Mid 2010)
 HJX|Stationary|iMac (27-inch, Mid 2010)
 HJY|Stationary|iMac (27-inch, Mid 2010)
+HK2Q|Headphones|Solo3 Wireless
+HK2R|Headphones|Solo3 Wireless
+HK32|Headphones|urBeats (2nd generation)
 HK7|Stationary|Power Mac G4 (PCI Graphics)
 HKE|Laptop|PowerBook (FireWire)
+HKJH|Headphones|Studio Wireless
+HKJJ|Headphones|Studio Wireless
 HL1|Stationary|Power Mac G4 (Digital Audio)
 HL4|Stationary|Power Mac G4 (PCI Graphics)
 HLA|Stationary|Power Mac G4 (AGP Graphics)
@@ -4498,12 +5273,21 @@ HLF9|Tablet|iPad (5th generation)
 HLFC|Tablet|iPad (5th generation)
 HLFD|Tablet|iPad (5th generation)
 HLFF|Tablet|iPad (5th generation)
+HLJJ|Tablet|iPad (5th generation) Wi-Fi + Cellular
 HLJK|Tablet|iPad (5th generation) Wi-Fi + Cellular
+HLJL|Tablet|iPad (5th generation) Wi-Fi + Cellular
+HLJM|Tablet|iPad (5th generation) Wi-Fi + Cellular
 HLK|Stationary|Power Mac G4 (AGP Graphics)
+HLWV|Stationary|iMac (Retina 4K, 21.5-inch, Late 2015)
 HLZ|Stationary|Power Mac G4 (AGP Graphics)
 HM0|Stationary|Power Mac G4 (PCI Graphics)
 HM1|Stationary|Power Mac G4 (AGP Graphics)
 HM5|Stationary|Power Mac G4 (PCI Graphics)
+HMC6|Headphones|Solo3 Wireless
+HMHT|Headphones|Studio Wireless
+HMHV|Headphones|Powerbeats3 Wireless
+HMMF|Laptop|MacBook Pro (Retina, 15-inch, Mid 2015)
+HMMQ|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 HMN|Software|AppleShare IP 6.3
 HMP|Software|AppleShare IP 6.3
 HMQ|Software|AppleShare IP 6.3
@@ -4515,38 +5299,82 @@ HMV|Software|AppleShare IP 6.3
 HN1|Stationary|Power Mac G4 (PCI Graphics)
 HN2|Stationary|Power Mac G4 (PCI Graphics)
 HN3|Stationary|Power Mac G4 (PCI Graphics)
+HN8P|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 HN9|Stationary|Power Mac G4 (PCI Graphics)
 HNA|Stationary|Power Mac G4 (PCI Graphics)
 HNC|Laptop|MacBook Pro (13-inch, Mid 2010)
 HND|Stationary|Power Mac G4 Server
 HND6|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi
+HND7|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi
+HND8|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi
 HNE|Stationary|Power Mac G4 Server
 HNF|Stationary|Power Mac G4 Server
 HNH|Stationary|Power Mac G4 (AGP Graphics)
+HNM4|MediaPlayer|Apple TV 4K
 HNZ|Stationary|Power Mac G4 (AGP Graphics)
 HOE|Display|Apple Studio Display 21 inch, CRT
 HP0|Stationary|Power Mac G4 (AGP Graphics)
+HP34|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular
+HP35|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular
+HP36|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular
+HP3L|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular
+HP3M|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular
+HP3P|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular
 HP49|Laptop|MacBook Pro (13-inch, Late 2016, Four Thunderbolt 3 Ports)
 HP4D|Laptop|MacBook Pro (13-inch, Late 2016, Four Thunderbolt 3 Ports)
 HP50|Tablet|iPad Pro (10.5-inch) Wi-Fi
+HP51|Tablet|iPad Pro (10.5-inch) Wi-Fi
+HP52|Tablet|iPad Pro (10.5-inch) Wi-Fi
+HP53|Tablet|iPad Pro (10.5-inch) Wi-Fi
+HP61|Tablet|iPad (5th generation) Wi-Fi + Cellular
+HP62|Tablet|iPad (5th generation) Wi-Fi + Cellular
+HP83|Tablet|iPad Pro (10.5-inch) Wi-Fi
+HP84|Tablet|iPad Pro (10.5-inch) Wi-Fi
+HP85|Tablet|iPad Pro (10.5-inch) Wi-Fi
+HP86|Tablet|iPad Pro (10.5-inch) Wi-Fi
 HP9|Stationary|Mac Pro (Mid 2010)
 HP9X|Tablet|iPad (5th generation)
+HP9Y|Tablet|iPad (5th generation)
 HPA|Stationary|Mac Pro (Mid 2010)
 HPB|Stationary|iMac (27-inch, Mid 2010)
 HPC|Laptop|MacBook Pro (13-inch, Mid 2010)
+HPDV|Tablet|iPad Pro (10.5-inch)  Wi-Fi + Cellular
+HPDW|Tablet|iPad Pro (10.5-inch)  Wi-Fi + Cellular
+HPDX|Tablet|iPad Pro (10.5-inch)  Wi-Fi + Cellular
+HPDY|Tablet|iPad Pro (10.5-inch)  Wi-Fi + Cellular
 HPE|Laptop|MacBook Pro (15-inch, Mid 2010)
 HPF|Laptop|MacBook Pro (15-inch, Mid 2010)
+HPF8|Tablet|iPad Pro (10.5-inch)  Wi-Fi + Cellular
+HPF9|Tablet|iPad Pro (10.5-inch)  Wi-Fi + Cellular
+HPFC|Tablet|iPad Pro (10.5-inch)  Wi-Fi + Cellular
+HPFD|Tablet|iPad Pro (10.5-inch)  Wi-Fi + Cellular
 HPG|Stationary|iMac (27-inch, Mid 2010)
 HPH|Laptop|MacBook Pro (15-inch, Mid 2010)
 HPJ|Laptop|MacBook Pro (15-inch, Mid 2010)
 HPJ4|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi
+HPJ5|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi
+HPJ6|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi
 HPK|Laptop|MacBook Pro (15-inch, Mid 2010)
 HPL|Laptop|MacBook Pro (15-inch, Mid 2010)
 HPM|Laptop|MacBook Pro (15-inch, Mid 2010)
 HPO|Stationary|Power Mac G4 (AGP Graphics)
 HPQ|Stationary|iMac (21.5-inch, Mid 2010)
+HPQG|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular
+HPQH|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular
+HPQJ|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular
 HPR|Stationary|iMac (21.5-inch, Mid 2010)
+HPR8|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular
+HPR9|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular
+HPRF|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular
 HPS|Laptop|MacBook Pro (15-inch, Mid 2010)
+HPT4|Tablet|iPad Pro (10.5-inch)  Wi-Fi + Cellular
+HPT5|Tablet|iPad Pro (10.5-inch)  Wi-Fi + Cellular
+HPT6|Tablet|iPad Pro (10.5-inch)  Wi-Fi + Cellular
+HPT7|Tablet|iPad Pro (10.5-inch)  Wi-Fi + Cellular
+HPT8|Tablet|iPad Pro (10.5-inch)  Wi-Fi + Cellular
+HPT9|Tablet|iPad Pro (10.5-inch)  Wi-Fi + Cellular
+HPTC|Tablet|iPad Pro (10.5-inch)  Wi-Fi + Cellular
+HPTD|Tablet|iPad Pro (10.5-inch)  Wi-Fi + Cellular
 HPV|Stationary|Mac Pro Server (Mid 2010)
 HPW|Stationary|Mac Pro Server (Mid 2010)
 HPXN|Phone|iPhone 7
@@ -4578,10 +5406,14 @@ HPYL|Phone|iPhone 7 Plus
 HPYM|Phone|iPhone 7 Plus
 HPYN|Phone|iPhone 7 Plus
 HPYP|Phone|iPhone 7 Plus
+HQ9T|Stationary|iMac (21.5-inch, Late 2015)
+HQ9V|Stationary|iMac (21.5-inch, Late 2015)
+HQ9W|Stationary|iMac (21.5-inch, Late 2015)
 HQD|Laptop|MacBook Pro (15-inch, Mid 2010)
 HQE|Laptop|MacBook Pro (15-inch, Mid 2010)
 HQJ|Stationary|iMac (Slot Loading)
 HQK|Stationary|iMac DV (Slot Loading)
+HQK8|Speaker|HomePod (Early 2018)
 HQL|Stationary|iMac DV (Slot Loading)
 HQM|Stationary|iMac DV (Slot Loading)
 HQN|Stationary|iMac DV (Slot Loading)
@@ -4621,7 +5453,10 @@ HTD5|Laptop|MacBook Pro (15-inch, 2017)
 HTD6|Laptop|MacBook Pro (15-inch, 2017)
 HTD7|Laptop|MacBook Pro (15-inch, 2017)
 HTD8|Laptop|MacBook Pro (15-inch, 2017)
+HTD9|Laptop|MacBook Pro (15-inch, 2017)
+HTDC|Laptop|MacBook Pro (15-inch, 2017)
 HTDD|Laptop|MacBook Pro (15-inch, 2017)
+HTDF|Laptop|MacBook Pro (15-inch, 2017)
 HTDG|Laptop|MacBook Pro (15-inch, 2017)
 HTDH|Laptop|MacBook Pro (15-inch, 2017)
 HTE|Stationary|iMac DV (Slot Loading)
@@ -4658,6 +5493,10 @@ HTW4|Phone|iPhone SE
 HTW5|Phone|iPhone SE
 HTX|Stationary|iMac DV (Slot Loading)
 HTY|Stationary|iMac DV (Slot Loading)
+HTYF|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
+HTYP|Headphones|Solo3 Wireless
+HTYR|Headphones|Solo3 Wireless
+HTYY|Headphones|Powerbeats3 Wireless
 HTZ|Stationary|iMac DV (Slot Loading)
 HU0|Stationary|iMac DV (Slot Loading)
 HU1|Stationary|iMac DV (Slot Loading)
@@ -4676,16 +5515,41 @@ HUD|Laptop|MacBook (13-inch, Mid 2010)
 HUE|Stationary|iMac (20-inch, Mid 2009)
 HUO|Stationary|iMac DV (Slot Loading)
 HUV|Stationary|Power Mac G4 (AGP Graphics)
+HV01|Headphones|Powerbeats3 Wireless
+HV22|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+HV27|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
 HV29|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
 HV2D|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+HV2F|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
 HV2G|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
 HV2H|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
 HV2J|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+HV2K|Laptop|MacBook Pro (Retina, 15-inch, Mid 2015)
+HV2L|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+HV2M|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+HV2N|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+HV2P|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
 HV2Q|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+HV2R|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
 HV2T|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+HV2V|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+HV2W|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+HV2X|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+HV36|Laptop|MacBook Pro (Retina, 15-inch, Mid 2015)
+HV37|Laptop|MacBook Pro (Retina, 15-inch, Mid 2015)
+HV59|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
+HV5D|Laptop|MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)
+HV5G|Laptop|MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)
+HV5H|Laptop|MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)
+HV5J|Laptop|MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)
 HV5K|Laptop|MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)
+HV5L|Laptop|MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)
+HV5M|Laptop|MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)
+HV5N|Laptop|MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)
 HV6|Stationary|Power Mac G4 (AGP Graphics)
 HV7|Stationary|Power Mac G4 (PCI Graphics)
+HV8Y|Headphones|Powerbeats3 Wireless
+HV90|Headphones|Studio Wireless
 HVE|Stationary|iMac (Slot Loading)
 HVF|Stationary|iMac DV Special Edition (Slot Loading)
 HVG|Stationary|iMac DV Special Edition (Slot Loading)
@@ -4696,11 +5560,15 @@ HVW|Stationary|iMac DV (Slot Loading)
 HVX|Stationary|iMac DV (Slot Loading)
 HVY|Stationary|iMac DV (Slot Loading)
 HVZ|Stationary|iMac DV Special Edition (Slot Loading)
+HWCG|Laptop|MacBook Pro (15-inch, 2016)
+HWCH|Laptop|MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)
 HWE|Software|AppleWorks 6
 HWF|Software|AppleWorks 6
 HWG|Software|AppleWorks 6
 HWH|Software|AppleWorks 6
+HWH2|Laptop|MacBook Pro (13-inch, 2016, Four Thunderbolt 3 Ports)
 HX87|Stationary|iMac Pro (2017)
+HX8F|Stationary|iMac Pro (2017)
 HX96|Phone|iPhone 7
 HX97|Phone|iPhone 7
 HX98|Phone|iPhone 7
@@ -4713,11 +5581,22 @@ HX9H|Phone|iPhone 7 Plus
 HX9J|Phone|iPhone 7 Plus
 HX9K|Phone|iPhone 7 Plus
 HX9L|Phone|iPhone 7 Plus
+HX9P|Headphones|Powerbeats3 Wireless
+HX9R|Headphones|Powerbeats3 Wireless
+HX9T|Headphones|Solo3 Wireless
+HX9W|Headphones|Solo3 Wireless
+HXD3|Laptop|MacBook Pro (15-inch, 2016)
+HXD5|Laptop|MacBook Pro (13-inch, 2016, Four Thunderbolt 3 Ports)
+HXF8|Laptop|MacBook Pro (15-inch, 2016)
 HXR5|Phone|iPhone 6
 HXR6|Phone|iPhone 6
 HYA|Software|AppleWorks 6
 HYFK|Phone|iPhone 6
 HYFL|Phone|iPhone 6
+HYGQ|Headphones|Stationary|iMac (21.5-inch, Late 2015)
+HYJ0|Headphones|Solo3 Wireless
+HYP5|Laptop|MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)
+HYVM|Laptop|MacBook Air (11-inch, Early 2015)
 HZ8|Stationary|iMac DV Special Edition (Slot Loading)
 HZ9|Stationary|iMac DV (Slot Loading)
 HZA|Stationary|iMac (Slot Loading)
@@ -4742,36 +5621,80 @@ IWP|Other|Non-serialized Products
 J00|Software|AppleShare IP 6.3
 J04|Software|AppleShare IP 6.3
 J07|Software|AppleShare IP 6.3
+J0DG|Stationary|iMac (21.5-inch, Late 2015)
+J0DH|Stationary|iMac (21.5-inch, Late 2015)
+J0DJ|Stationary|iMac (21.5-inch, Late 2015)
+J0DK|Stationary|iMac (Retina 5K, 27-inch, Late 2015)
 J0Y|Stationary|iMac DV Special Edition (Slot Loading)
 J1D9|Phone|iPhone 7
 J1DC|Phone|iPhone 7
 J1DD|Phone|iPhone 7 Plus
 J1DF|Phone|iPhone 7 Plus
+J1G5|Stationary|iMac (Retina 4K, 21.5-inch, 2017)
 J1G6|Stationary|iMac (Retina 4K, 21.5-inch, 2017)
+J1G7|Stationary|iMac (Retina 4K, 21.5-inch, 2017)
+J1G8|Stationary|iMac (Retina 4K, 21.5-inch, 2017)
+J1G9|Stationary|iMac (Retina 4K, 21.5-inch, 2017)
+J1GC|Stationary|iMac (Retina 4K, 21.5-inch, 2017)
+J1GD|Stationary|iMac (Retina 4K, 21.5-inch, 2017)
+J1GF|Stationary|iMac (Retina 4K, 21.5-inch, 2017)
+J1GG|Stationary|iMac (Retina 5K, 27-inch, 2017)
+J1GH|Stationary|iMac (Retina 5K, 27-inch, 2017)
+J1GJ|Stationary|iMac (Retina 5K, 27-inch, 2017)
+J1GK|Stationary|iMac (Retina 5K, 27-inch, 2017)
+J1GL|Stationary|iMac (Retina 5K, 27-inch, 2017)
+J1GM|Stationary|iMac (Retina 5K, 27-inch, 2017)
+J1GN|Stationary|iMac (Retina 5K, 27-inch, 2017)
+J1GP|Stationary|iMac (Retina 5K, 27-inch, 2017)
+J1GQ|Stationary|iMac (Retina 5K, 27-inch, 2017)
+J1GR|Stationary|iMac (Retina 5K, 27-inch, 2017)
 J1GT|Stationary|iMac (Retina 5K, 27-inch, 2017)
+J1GV|Stationary|iMac (Retina 5K, 27-inch, 2017)
+J1WF|MediaPlayer|Apple TV 4K
+J1WK|Laptop|MacBook Air (13-inch, 2017)
 J1WL|Laptop|MacBook Air (13-inch, 2017)
+J1WM|Laptop|MacBook Air (13-inch, 2017)
+J1WT|Laptop|MacBook Air (13-inch, 2017)
 J1WV|Laptop|MacBook Air (13-inch, 2017)
+J21W|Laptop|MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)
 J262|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi
 J263|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi
+J264|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi
+J265|Speaker|HomePod (Early 2018)
 J28K|Tablet|iPad Pro (10.5-inch) Wi-Fi
 J28L|Tablet|iPad Pro (10.5-inch) Wi-Fi
 J28M|Tablet|iPad Pro (10.5-inch)
 J28N|Tablet|iPad Pro (10.5-inch)
+J294|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular
+J295|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular
+J296|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular
+J299|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular
+J29C|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular
+J29D|Tablet|iPad Pro (12.9-inch) (2nd generation) Wi-Fi + Cellular
 J2D1|Tablet|iPad Pro (10.5-inch) Wi-Fi + Cellular
 J2D2|Tablet|iPad Pro (10.5-inch)
 J2D3|Tablet|iPad Pro (10.5-inch)
 J2D4|Tablet|iPad Pro (10.5-inch)
+J2GJ|Stationary|iMac (Retina 5K, 27-inch, 2017)
 J2H6|Tablet|iPad Pro (10.5-inch)
 J2H7|Tablet|iPad Pro (10.5-inch)
 J2H8|Tablet|iPad Pro (10.5-inch)
 J2HF|Tablet|iPad Pro (10.5-inch)
+J2K6|Headphones|Powerbeats3 Wireless
 J2P|Stationary|Power Mac G4 Server
 J2Q|Stationary|Power Mac G4 Server
 J2R|Stationary|Power Mac G4 Server
 J2S|Stationary|Power Mac G4 (AGP Graphics)
+J2VW|Headphones|urBeats3
+J2VX|Headphones|urBeats3
+J2VY|Headphones|urBeats3
+J2W0|Headphones|urBeats3
 J3B|Stationary|Power Mac G4 (Gigabit Ethernet)
 J3C|Stationary|Power Mac G4 (Gigabit Ethernet)
 J3D|Stationary|Power Mac G4 (Gigabit Ethernet)
+J3RW|Stationary|Mac Pro (Late 2013)
+J3RY|Stationary|Mac Pro (Late 2013)
+J4NY|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
 J52|Laptop|iBook Special Edition
 J55|Laptop|iBook
 J5KM|Phone|iPhone 7
@@ -4780,17 +5703,97 @@ J5KP|Phone|iPhone 7
 J5KQ|Phone|iPhone 7 Plus
 J5KR|Phone|iPhone 7 Plus
 J5KT|Phone|iPhone 7 Plus
+J5KW|Laptop|MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)
 J5V|Laptop|iBook
 J5W|Laptop|iBook
+J5WY|Watch|Apple Watch Series 3 GPS Aluminum 38mm (3rd gen)
+J5X0|Watch|Apple Watch Series 3 GPS Aluminum 38mm (3rd gen)
+J5X1|Watch|Apple Watch Series 3 GPS Aluminum 38mm (3rd gen)
+J5X2|Watch|Apple Watch Series 3 GPS Nike+ 38mm (3rd gen)
+J5X3|Watch|Apple Watch Series 3 GPS Aluminum 42mm (3rd gen)
 J5X4|Watch|Apple Watch Series 3 GPS Aluminum 42mm (3rd gen)
+J5X5|Watch|Apple Watch Series 3 GPS Aluminum 42mm (3rd gen)
+J5X6|Watch|Apple Watch Series 3 GPS Nike+ 42mm (3rd gen)
+J608|Stationary|iMac (Retina 4K, 21.5-inch, 2017)
+J609|Stationary|iMac (Retina 5K, 27-inch, 2017)
+J60C|Stationary|iMac (Retina 5K, 27-inch, 2017)
+J64G|Laptop|MacBook (Retina, 12-inch, 2017)
+J64H|Laptop|MacBook (Retina, 12-inch, 2017)
+J64J|Laptop|MacBook (Retina, 12-inch, 2017)
+J65G|Laptop|MacBook (Retina, 12-inch, 2017)
+J69C|Laptop|MacBook Pro (Retina, 13-inch, Early 2015)
+J6CP|Laptop|MacBook Pro (15-inch, 2017)
+J6CQ|Laptop|MacBook Pro (15-inch, 2017)
+J6DT|Watch|Apple Watch Series 3 Cellular Aluminum 38mm (3rd gen)
+J6DV|Watch|Apple Watch Series 3 Cellular Aluminum 38mm (3rd gen)
+J6DW|Watch|Apple Watch Series 3 Cellular Aluminum 38mm (3rd gen)
+J6DY|Watch|Apple Watch Series 3 Stainless Steel 38mm (3rd gen)
+J6F1|Watch|Apple Watch Series 3 Stainless Steel 38mm (3rd gen)
+J6FD|Watch|Apple Watch Series 3 Edition 38mm (3rd gen)
+J6FH|Watch|Apple Watch Series 3 Edition 38mm (3rd gen)
+J6FJ|Watch|Apple Watch Series 3 Cellular Nike+ 38mm (3rd gen)
+J6FK|Watch|Apple Watch Series 3 Cellular Nike+ 38mm (3rd gen)
+J6FL|Watch|Apple Watch Series 3 Hermes 38mm (3rd gen)
+J6GD|Watch|Apple Watch Series 3 Cellular Aluminum 42mm (3rd gen)
+J6GF|Watch|Apple Watch Series 3 Cellular Aluminum 42mm (3rd gen)
+J6GG|Watch|Apple Watch Series 3 Cellular Aluminum 42mm (3rd gen)
+J6GH|Watch|Apple Watch Series 3 Stainless Steel 42mm (3rd gen)
+J6GJ|Watch|Apple Watch Series 3 Stainless Steel 42mm (3rd gen)
+J6GL|Watch|Apple Watch Series 3 Edition 42mm (3rd gen)
+J6GM|Watch|Apple Watch Series 3 Edition 42mm (3rd gen)
+J6GN|Watch|Apple Watch Series 3 Cellular Nike+ 42mm (3rd gen)
+J6GP|Watch|Apple Watch Series 3 Cellular Nike+ 42mm (3rd gen)
+J6GQ|Watch|Apple Watch Series 3 Hermes 42mm (3rd gen)
+J6GR|Watch|Apple Watch Series 3 Cellular Aluminum 38mm (3rd gen)
+J6GT|Watch|Apple Watch Series 3 Cellular Aluminum 38mm (3rd gen)
+J6GV|Watch|Apple Watch Series 3 Cellular Aluminum 38mm (3rd gen)
 J6H|Stationary|iMac (Slot Loading)
+J6H5|Watch|Apple Watch Series 3 Stainless Steel 38mm (3rd gen)
+J6H6|Watch|Apple Watch Series 3 Stainless Steel 38mm (3rd gen)
+J6H8|Watch|Apple Watch Series 3 Edition 38mm (3rd gen)
+J6H9|Watch|Apple Watch Series 3 Edition 38mm (3rd gen)
+J6HC|Watch|Apple Watch Series 3 Cellular Nike+ 38mm (3rd gen)
+J6HD|Watch|Apple Watch Series 3 Cellular Nike+ 38mm (3rd gen)
+J6HF|Watch|Apple Watch Series 3 Hermes 38mm (3rd gen)
+J6HW|Watch|Apple Watch Series 3 Cellular Aluminum 42mm (3rd gen)
+J6HX|Watch|Apple Watch Series 3 Cellular Aluminum 42mm (3rd gen)
+J6HY|Watch|Apple Watch Series 3 Cellular Aluminum 42mm (3rd gen)
+J6J0|Watch|Apple Watch Series 3 Stainless Steel 42mm (3rd gen)
+J6J1|Watch|Apple Watch Series 3 Stainless Steel 42mm (3rd gen)
+J6J3|Watch|Apple Watch Series 3 Edition 42mm (3rd gen)
+J6J4|Watch|Apple Watch Series 3 Edition 42mm (3rd gen)
+J6J5|Watch|Apple Watch Series 3 Cellular Nike+ 42mm (3rd gen)
+J6J6|Watch|Apple Watch Series 3 Cellular Nike+ 42mm (3rd gen)
+J6J7|Watch|Apple Watch Series 3 Hermes 42mm (3rd gen)
+J6M9|Watch|Apple Watch Series 3 Cellular Aluminum 38mm (3rd gen)
+J6MC|Watch|Apple Watch Series 3 Cellular Aluminum 38mm (3rd gen)
+J6MD|Watch|Apple Watch Series 3 Cellular Aluminum 38mm (3rd gen)
+J6MF|Watch|Apple Watch Series 3 Stainless Steel 38mm (3rd gen)
+J6MG|Watch|Apple Watch Series 3 Stainless Steel 38mm (3rd gen)
+J6MJ|Watch|Apple Watch Series 3 Edition 38mm (3rd gen)
+J6MK|Watch|Apple Watch Series 3 Edition 38mm (3rd gen)
+J6ML|Watch|Apple Watch Series 3 Cellular Nike+ 38mm (3rd gen)
+J6MM|Watch|Apple Watch Series 3 Cellular Nike+ 38mm (3rd gen)
+J6MN|Watch|Apple Watch Series 3 Hermes 38mm (3rd gen)
+J6MP|Watch|Apple Watch Series 3 Cellular Aluminum 42mm (3rd gen)
+J6MQ|Watch|Apple Watch Series 3 Cellular Aluminum 42mm (3rd gen)
+J6MR|Watch|Apple Watch Series 3 Cellular Aluminum 42mm (3rd gen)
+J6MT|Watch|Apple Watch Series 3 Stainless Steel 42mm (3rd gen)
+J6MV|Watch|Apple Watch Series 3 Stainless Steel 42mm (3rd gen)
+J6MX|Watch|Apple Watch Series 3 Edition 42mm (3rd gen)
+J6MY|Watch|Apple Watch Series 3 Edition 42mm (3rd gen)
 J6N|Stationary|iMac DV (Slot Loading)
+J6N0|Watch|Apple Watch Series 3 Cellular Nike+ 42mm (3rd gen)
+J6N1|Watch|Apple Watch Series 3 Cellular Nike+ 42mm (3rd gen)
+J6NF|Watch|Apple Watch Series 3 Hermes 42mm (3rd gen)
 J6P|Stationary|iMac DV (Slot Loading)
 J6Q|Stationary|iMac DV (Slot Loading)
 J6S|Stationary|iMac DV (Slot Loading)
 J6T|Stationary|iMac DV Special Edition (Slot Loading)
 J6V|Stationary|iMac DV (Slot Loading)
+J6VL|Laptop|MacBook Air (13-inch, Early 2015)
 J74|Stationary|iMac (Slot Loading)
+J762|Laptop|MacBook Air (11-inch, Early 2015)
 J77|Stationary|iMac DV (Slot Loading)
 J78|Stationary|iMac DV (Slot Loading)
 J79|Stationary|iMac DV (Slot Loading)
@@ -4808,27 +5811,104 @@ J7Q|Stationary|iMac (Slot Loading)
 J7R|Stationary|iMac (Slot Loading)
 J7S|Stationary|iMac (Slot Loading)
 J7T|Stationary|iMac (Slot Loading)
+J86T|Keyboard|Smart Keyboard
 J88|Stationary|iMac (Slot Loading)
 J89|Stationary|iMac DV (Slot Loading)
 J8A|Stationary|iMac DV (Slot Loading)
 J8B|Stationary|iMac DV (Slot Loading)
 J8C|Stationary|iMac DV (Slot Loading)
 J8D|Stationary|iMac DV (Slot Loading)
+J8DY|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
 J8E|Stationary|iMac DV (Slot Loading)
 J8F|Stationary|iMac (Slot Loading)
+J8F0|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J8F1|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J8F2|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
 J8G|Stationary|iMac DV (Slot Loading)
 J8H|Stationary|iMac DV (Slot Loading)
 J8J|Stationary|iMac DV (Slot Loading)
 J8K|Stationary|iMac DV (Slot Loading)
+J8KC|Laptop|MacBook Pro (15-inch, 2017)
 J8L|Stationary|iMac DV (Slot Loading)
 J8M|Stationary|iMac DV (Slot Loading)
+J8MR|Watch|Apple Watch Series 3 GPS Nike+ 38mm (3rd gen)
+J8MT|Watch|Apple Watch Series 3 GPS Nike+ 42mm (3rd gen)
+J8N7|Laptop|MacBook Air (13-inch, 2017)
 J8V|Stationary|iMac DV (Slot Loading)
 J8W|Stationary|iMac DV Special Edition (Slot Loading)
+J8XG|Laptop|MacBook Air (13-inch, 2017)
+J8XH|Laptop|MacBook Air (13-inch, 2017)
 J90|Stationary|iMac (Slot Loading)
 J92|Stationary|Power Mac G4 (AGP Graphics)
 J925|Laptop|MacBook Pro (15-inch, 2017)
 J926|Laptop|MacBook Pro (15-inch, 2017)
 J93|Stationary|Power Mac G4 (AGP Graphics)
+J931|Laptop|MacBook Pro (15-inch, 2017)
+J932|Laptop|MacBook Pro (15-inch, 2017)
+J933|Laptop|MacBook Pro (15-inch, 2017)
+J934|Laptop|MacBook Pro (15-inch, 2017)
+J935|Laptop|MacBook Pro (15-inch, 2017)
+J936|Laptop|MacBook Pro (15-inch, 2017)
+J937|Laptop|MacBook Pro (15-inch, 2017)
+J938|Laptop|MacBook Pro (15-inch, 2017)
+J939|Laptop|MacBook Pro (15-inch, 2017)
+J93C|Laptop|MacBook Pro (15-inch, 2017)
+J93D|Laptop|MacBook Pro (15-inch, 2017)
+J93F|Laptop|MacBook Pro (15-inch, 2017)
+J93G|Laptop|MacBook Pro (15-inch, 2017)
+J93H|Laptop|MacBook Pro (15-inch, 2017)
+J93J|Laptop|MacBook Pro (15-inch, 2017)
+J93K|Laptop|MacBook Pro (15-inch, 2017)
+J93L|Laptop|MacBook Pro (15-inch, 2017)
+J93M|Laptop|MacBook Pro (15-inch, 2017)
+J93N|Laptop|MacBook Pro (15-inch, 2017)
+J93P|Laptop|MacBook Pro (15-inch, 2017)
+J9HX|Laptop|MacBook Air (13-inch, 2017)
+J9J1|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+J9J2|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+J9J3|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+J9J4|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+J9J5|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+J9J6|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+J9J7|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+J9J8|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+J9J9|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+J9JD|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+J9JF|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+J9JG|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+J9JH|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+J9JM|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9JN|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9JP|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9JQ|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9JR|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9JT|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9JV|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9JW|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9JX|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9JY|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9K0|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9K1|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9K2|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9K3|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9K4|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9K5|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9K6|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9K7|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9K8|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9K9|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9KC|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+J9TN|Laptop|MacBook Air (13-inch, 2017)
+J9TP|Laptop|MacBook Air (13-inch, 2017)
+J9TQ|Laptop|MacBook Air (13-inch, 2017)
+J9X4|Stationary|iMac (Retina 4K, 21.5-inch, 2017)
+J9X5|Stationary|iMac (Retina 4K, 21.5-inch, 2017)
+J9X6|Stationary|iMac (Retina 5K, 27-inch, 2017)
+J9X7|Stationary|iMac (Retina 5K, 27-inch, 2017)
+J9X8|Stationary|iMac (Retina 5K, 27-inch, 2017)
+J9X9|Stationary|iMac (Retina 5K, 27-inch, 2017)
+J9XC|Stationary|iMac (Retina 5K, 27-inch, 2017)
+J9XD|Laptop|MacBook (Retina, 12-inch, 2017)
 JAJ|Display|Apple Studio Display 17 inch, ADC
 JAK|Display|Apple Studio Display 17 inch, ADC
 JAL|Display|Apple Studio Display 17 inch, ADC
@@ -4841,6 +5921,8 @@ JAU|Stationary|iMac DV (Summer 2000)
 JAV|Stationary|iMac DV+ (Summer 2000)
 JB0|Stationary|iMac DV Special Edition (Summer 2000)
 JBD|Laptop|PowerBook G4
+JC5J|Laptop|MacBook (Retina, 12-inch, Early 2016)
+JC5L|Stationary|iMac (Retina 5K, 27-inch, 2017)
 JC67|Phone|iPhone 8
 JC68|Phone|iPhone 8
 JC69|Phone|iPhone 8
@@ -4859,6 +5941,10 @@ JC6Q|Phone|iPhone 8
 JC6R|Phone|iPhone 8
 JC6T|Phone|iPhone 8
 JC6V|Phone|iPhone 8
+JC9H|Laptop|MacBook Air (13-inch, 2017)
+JCCR|Stationary|iMac (Retina 5K, 27-inch, 2017)
+JCCT|Stationary|iMac (Retina 5K, 27-inch, 2017)
+JCD6|Laptop|MacBook Air (13-inch, 2017)
 JCL6|Phone|iPhone X
 JCL7|Phone|iPhone X
 JCL8|Phone|iPhone X
@@ -4889,6 +5975,12 @@ JCM4|Phone|iPhone 8 Plus
 JCM5|Phone|iPhone 8 Plus
 JCM6|Phone|iPhone 8 Plus
 JCM7|Phone|iPhone 8 Plus
+JCND|Stationary|iMac (Retina 5K, 27-inch, 2017)
+JCPR|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+JCYQ|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+JD04|Laptop|MacBook Pro (15-inch, 2017)
+JD06|Laptop|MacBook Pro (15-inch, 2017)
+JD9D|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
 JDZ|Stationary|Power Mac G4 (Cube)
 JEC|Stationary|iMac (Slot Loading)
 JED|Stationary|iMac DV (Slot Loading)
@@ -4899,31 +5991,85 @@ JEM|Stationary|iMac (Slot Loading)
 JEN|Stationary|iMac (Slot Loading)
 JF8|Laptop|PowerBook G4
 JF88|Tablet|iPad (6th generation) Wi-Fi + Cellular
+JF89|Tablet|iPad (6th generation) Wi-Fi + Cellular
+JF8D|Tablet|iPad (6th generation) Wi-Fi + Cellular
+JF8G|Tablet|iPad (6th generation) Wi-Fi + Cellular
 JF8J|Tablet|iPad (6th generation)
 JF8K|Tablet|iPad (6th generation)
 JF8M|Tablet|iPad (6th generation)
 JF8N|Tablet|iPad (6th generation)
+JFLY|Laptop|MacBook Air (13-inch, 2017)
 JFN|Stationary|Power Mac G4 (Gigabit Ethernet)
 JFP|Stationary|Power Mac G4 (Gigabit Ethernet)
+JFPW|Stationary|iMac (Retina 4K, 21.5-inch, 2017)
 JFQ|Stationary|Power Mac G4 (Gigabit Ethernet)
+JFRR|Stationary|iMac (21.5-inch, 2017)
 JG0|Stationary|Power Mac G4 (Cube)
+JG2X|MediaPlayer|Apple TV HD
 JG5H|Laptop|MacBook Pro (15-inch, 2018)
+JG5J|Laptop|MacBook Pro (15-inch, 2018)
+JG5K|Laptop|MacBook Pro (15-inch, 2018)
 JG5L|Laptop|MacBook Pro (15-inch, 2018)
 JG5M|Laptop|MacBook Pro (15-inch, 2018)
+JGDR|Stationary|iMac (21.5-inch, 2017)
+JGDT|Stationary|iMac (Retina 4K, 21.5-inch, 2017)
 JGH5|Laptop|MacBook Pro (15-inch, 2018)
 JGH6|Laptop|MacBook Pro (15-inch, 2018)
 JGH7|Laptop|MacBook Pro (15-inch, 2018)
 JGH8|Laptop|MacBook Pro (15-inch, 2018)
+JHC8|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+JHC9|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+JHCC|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
 JHCD|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
 JHCF|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
 JHD2|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
 JHD3|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
 JHD4|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+JHD5|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+JHTD|Laptop|MacBook Pro (15-inch, 2017)
+JHTF|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
 JJ1|Stationary|Power Mac G4 (AGP Graphics)
 JJ2|Stationary|Power Mac G4 (AGP Graphics)
+JJ3D|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+JJ3F|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+JJ3G|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+JJ3H|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+JJ3J|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+JK77|Laptop|MacBook Air (Retina, 13-inch, 2018)
+JK78|Laptop|MacBook Air (Retina, 13-inch, 2018)
+JK7C|Laptop|MacBook Air (Retina, 13-inch, 2018)
+JK7D|Laptop|MacBook Air (Retina, 13-inch, 2018)
+JK7F|Laptop|MacBook Air (Retina, 13-inch, 2018)
+JK7G|Laptop|MacBook Air (Retina, 13-inch, 2018)
+JK7L|Laptop|MacBook Air (Retina, 13-inch, 2018)
+JK7M|Laptop|MacBook Air (Retina, 13-inch, 2018)
 JK7P|Laptop|MacBook Air (Retina, 13-inch, 2018)
 JK7Q|Laptop|MacBook Air (Retina, 13-inch, 2018)
+JK7R|Laptop|MacBook Air (Retina, 13-inch, 2018)
+JK7T|Laptop|MacBook Air (Retina, 13-inch, 2018)
+JKF9|Stationary|iMac (Retina 4K, 21.5-inch, 2017)
+JKHD|Laptop|MacBook Air (13-inch, 2017)
+JKHF|Laptop|MacBook Air (13-inch, 2017)
+JKXH|Laptop|MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)
+JKXM|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
+JL53|Stationary|iMac Pro (2017)
+JL54|Stationary|iMac Pro (2017)
+JL55|Stationary|iMac Pro (2017)
+JLCN|Stationary|iMac Pro (2017)
+JLCP|Stationary|iMac Pro (2017)
+JLCR|Stationary|iMac Pro (2017)
+JLCT|Stationary|iMac Pro (2017)
+JLCV|Stationary|iMac Pro (2017)
+JLCW|Stationary|iMac Pro (2017)
+JLCX|Stationary|iMac Pro (2017)
+JLCY|Stationary|iMac Pro (2017)
+JLD0|Stationary|iMac Pro (2017)
+JLD1|Stationary|iMac Pro (2017)
+JLD2|Stationary|iMac Pro (2017)
+JM3R|Stationary|iMac (Retina 5K, 27-inch, 2017)
+JM3V|Stationary|iMac (Retina 5K, 27-inch, 2017)
 JMJ|Stationary|Power Mac G4 (AGP Graphics)
+JMMT|Headphones|AirPods (2nd generation) with Wireless Charging Case
 JMP|Stationary|iMac DV (Summer 2000)
 JMQ|Stationary|iMac DV+ (Summer 2000)
 JMR|Stationary|iMac DV Special Edition (Summer 2000)
@@ -4931,12 +6077,23 @@ JMS|Stationary|iMac DV (Summer 2000)
 JMT|Stationary|iMac DV+ (Summer 2000)
 JMU|Stationary|iMac DV Special Edition (Summer 2000)
 JMV|Stationary|Power Mac G4 Server (Gigabit)
+JMVR|Tablet|iPad (6th generation)
 JMVT|Tablet|iPad (6th generation)
 JMW|Stationary|Power Mac G4 Server (Gigabit)
+JMXJ|Tablet|iPad (6th generation) Wi-Fi + Cellular
+JMXK|Tablet|iPad (6th generation) Wi-Fi + Cellular
+JNGD|Stationary|iMac (Retina 5K, 27-inch, 2017)
+JNGF|Stationary|iMac (Retina 5K, 27-inch, 2017)
 JNW|Stationary|Power Mac G4 (Cube)
 JNX|Stationary|Power Mac G4 (Gigabit Ethernet)
+JP10|Stationary|iMac (Retina 4K, 21.5-inch, 2017)
 JPC|Display|Apple Studio Display 15 inch, ADC
+JPGP|Headphones|Solo3 Wireless, Decade Collection
 JPR|Laptop|PowerBook (FireWire)
+JPXM|Laptop|MacBook (Retina, 12-inch, 2017)
+JPXN|Laptop|MacBook (Retina, 12-inch, 2017)
+JPXP|Laptop|MacBook (Retina, 12-inch, 2017)
+JPXQ|Laptop|MacBook (Retina, 12-inch, 2017)
 JQ5|Laptop|iBook (Firewire)
 JQF|Stationary|Power Mac G4 (Digital Audio)
 JQH|Stationary|iMac DV (Summer 2000)
@@ -4951,6 +6108,7 @@ JR6|Stationary|iMac DV Special Edition (Summer 2000)
 JRH|Stationary|iMac DV (Slot Loading)
 JSC|Stationary|Power Mac G4 (AGP Graphics)
 JST|Stationary|iMac DV (Slot Loading)
+JT72|Stationary|iMac (Retina 5K, 27-inch, 2017)
 JU6|Laptop|iBook (Firewire)
 JU8|Display|Apple Cinema Display ADC
 JUB|Stationary|Power Mac G4 (AGP Graphics)
@@ -4960,8 +6118,17 @@ JUR|Stationary|iMac (Slot Loading)
 JUX|Stationary|iMac DV Special Edition (Slot Loading)
 JV3|Stationary|iMac DV (Slot Loading)
 JV3N|Stationary|iMac (Retina 5K, 27-inch, 2019)
+JV3P|Stationary|iMac (Retina 5K, 27-inch, 2019)
+JV3Q|Stationary|iMac (Retina 5K, 27-inch, 2019)
+JV3R|Stationary|iMac (Retina 5K, 27-inch, 2019)
+JV3T|Stationary|iMac (Retina 5K, 27-inch, 2019)
+JV3W|Stationary|iMac (Retina 5K, 27-inch, 2019)
+JV3X|Stationary|iMac (Retina 5K, 27-inch, 2019)
 JV3Y|Stationary|iMac (Retina 5K, 27-inch, 2019)
+JV40|Stationary|iMac (Retina 5K, 27-inch, 2019)
+JV41|Stationary|iMac (Retina 5K, 27-inch, 2019)
 JV42|Stationary|iMac (Retina 5K, 27-inch, 2019)
+JV43|Stationary|iMac (Retina 5K, 27-inch, 2019)
 JV5|Stationary|iMac DV (Summer 2000)
 JV6|Stationary|iMac DV+ (Summer 2000)
 JV7|Stationary|iMac DV Special Edition (Summer 2000)
@@ -4980,7 +6147,28 @@ JVR|Stationary|Power Mac G4 (Cube)
 JW2|Stationary|Power Mac G4 Server (Gigabit)
 JW3|Stationary|Power Mac G4 Server (Gigabit)
 JW4|Stationary|Power Mac G4 Server (Gigabit)
+JWDW|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
+JWDX|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
+JWDY|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
+JWF0|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
+JWF1|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
+JWF2|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
+JWF3|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
+JWF4|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
+JWF5|Phone|iPhone 8
+JWF6|Phone|iPhone 8
+JWF7|Phone|iPhone 8
+JWF8|Phone|iPhone 8
+JWF9|Phone|iPhone 8
+JWFC|Phone|iPhone 8
+JWLK|Phone|iPhone 8 Plus
+JWLL|Phone|iPhone 8 Plus
+JWLM|Phone|iPhone 8 Plus
+JWLN|Phone|iPhone 8 Plus
+JWLP|Phone|iPhone 8 Plus
+JWLQ|Phone|iPhone 8 Plus
 JWQ|Stationary|iMac (Summer 2000)
+JX8H|Stationary|iMac (Retina 5K, 27-inch, 2017)
 JXX|Laptop|PowerBook G4
 JXY|Laptop|PowerBook G4
 JXZ|Laptop|PowerBook G4
@@ -4992,16 +6180,58 @@ JY8|Stationary|Power Mac G4 (AGP Graphics)
 JY9|Stationary|Power Mac G4 (AGP Graphics)
 JYG|Stationary|iMac (Summer 2000)
 JYH|Stationary|iMac (Summer 2000)
+JYL0|Keyboard|Smart Keyboard
+JYL1|Keyboard|Smart Keyboard
+JYL2|Keyboard|Smart Keyboard
+JYL3|Keyboard|Smart Keyboard
+JYL4|Keyboard|Smart Keyboard
+JYL5|Keyboard|Smart Keyboard
+JYL6|Keyboard|Smart Keyboard
+JYL7|Keyboard|Smart Keyboard
+JYL8|Keyboard|Smart Keyboard
+JYL9|Keyboard|Smart Keyboard
+JYLC|Keyboard|Smart Keyboard
+JYLD|Keyboard|Smart Keyboard
+JYLF|Keyboard|Smart Keyboard
+JYLG|Keyboard|Smart Keyboard
+JYLH|Keyboard|Smart Keyboard
+JYLJ|Keyboard|Smart Keyboard
+JYLK|Keyboard|Smart Keyboard
+JYLL|Keyboard|Smart Keyboard
+JYLM|Keyboard|Smart Keyboard
+JYLN|Keyboard|Smart Keyboard
+JYLP|Keyboard|Smart Keyboard
+JYLQ|Keyboard|Smart Keyboard
+JYLR|Keyboard|Smart Keyboard
+JYLT|Keyboard|Smart Keyboard
+JYLV|Keyboard|Smart Keyboard
+JYLW|Keyboard|Smart Keyboard
+JYLX|Keyboard|Smart Keyboard
+JYLY|Keyboard|Smart Keyboard
+JYM0|Keyboard|Smart Keyboard
+JYM1|Keyboard|Smart Keyboard
+JYM2|Keyboard|Smart Keyboard
+JYM3|Keyboard|Smart Keyboard
+JYM4|Keyboard|Smart Keyboard
+JYM5|Keyboard|Smart Keyboard
+JYM6|Keyboard|Smart Keyboard
+JYM7|Keyboard|Smart Keyboard
+JYM8|Keyboard|Smart Keyboard
+JYM9|Keyboard|Smart Keyboard
+JYMC|Keyboard|Smart Keyboard
 JYN|Stationary|Power Mac G4 Server (Gigabit)
 JYV|Software|DVD Studio Pro
 JYVW|Stationary|Mac mini (2018)
 JYVX|Stationary|Mac mini (2018)
+JYVY|Stationary|Mac mini (2018)
 JYW0|Stationary|Mac mini (2018)
 JYX|Software|DVD Studio Pro
 JYY|Laptop|PowerBook (FireWire)
 JZF|Display|Apple Studio Display 17 inch, ADC
 JZG|Stationary|Power Mac G4 (AGP Graphics)
 JZV|Stationary|Power Mac G4 (Cube)
+K0Q9|Keyboard|Smart Keyboard
+K141|Laptop|MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
 K1B|Stationary|Power Mac G4 (AGP Graphics)
 K1D|Stationary|Power Mac G4 (AGP Graphics)
 K1E|Stationary|Power Mac G4 (AGP Graphics)
@@ -5056,6 +6286,11 @@ K74|Stationary|Power Mac G4 Server (Digital Audio)
 K7M9|Tablet|iPad Pro 12.9-inch, (3rd generation) Wi-Fi
 K7MC|Tablet|iPad Pro 12.9-inch, (3rd generation) Wi-Fi
 K7RG|Tablet|iPad Pro 12.9-inch, (3rd generation) Wi-Fi
+K7RH|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi
+K822|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi
+K823|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi
+K824|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi
+K825|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi
 K86|Stationary|Power Mac G4 (Gigabit Ethernet)
 K8H|Stationary|Power Mac G4 (Gigabit Ethernet)
 K8J|Stationary|Power Mac G4 (Gigabit Ethernet)
@@ -5077,11 +6312,110 @@ KB7|Laptop|iBook (Dual USB)
 KB8|Laptop|iBook (Dual USB)
 KBD|Stationary|iMac DV (Summer 2000)
 KBJ|Stationary|Power Mac G4 (Cube)
+KC43|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC47|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC48|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC4L|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC4Q|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC4V|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC4W|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC50|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
 KC51|Tablet|iPad Pro 12.9-inch, (3rd generation) Wi-Fi + Cellular
+KC58|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC5F|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC5G|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC5J|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC5N|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC5P|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC5Q|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC5V|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC5W|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC6N|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC6R|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC6T|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC6V|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC6Y|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KC70|Tablet|iPad Pro 12.9-inch (3rd generation) Wi-Fi + Cellular
+KD6J|Tablet|iPad Pro 11-inch Wi-Fi
+KD6K|Tablet|iPad Pro 11-inch Wi-Fi
+KD6L|Tablet|iPad Pro 11-inch Wi-Fi
 KD6M|Tablet|iPad Pro 11-inch, Wi-Fi
+KD6N|Tablet|iPad Pro 11-inch Wi-Fi
+KD6P|Tablet|iPad Pro 11-inch Wi-Fi
+KD6Q|Tablet|iPad Pro 11-inch Wi-Fi
+KD6R|Tablet|iPad Pro 11-inch Wi-Fi
+KD7V|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD7Y|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD80|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD81|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD84|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD85|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD86|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD89|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD8C|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD8D|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD8H|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD8J|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD8K|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD8N|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD8P|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD8Q|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD8V|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD8W|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD8X|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD91|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD92|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD93|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD96|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD97|Tablet|iPad Pro 11-inch Wi-Fi + Cellular
+KD99|Watch|Apple Watch Series 4 GPS Aluminum 44mm (4th gen)
 KDC|Stationary|iMac (Early 2001)
 KDE|Stationary|iMac (Early 2001)
 KDF|Software|Mac OS X Server 10.0
+KDH0|Watch|Apple Watch Series 4 GPS Aluminum 44mm (4th gen)
+KDH1|Watch|Apple Watch Series 4 GPS Aluminum 44mm (4th gen)
+KDH2|Watch|Apple Watch Series 4 GPS Aluminum 40mm (4th gen)
+KDH3|Watch|Apple Watch Series 4 GPS Aluminum 40mm (4th gen)
+KDH4|Watch|Apple Watch Series 4 GPS Aluminum 40mm (4th gen)
+KDH8|Watch|Apple Watch Series 4 GPS Nike+ 40mm (4th gen)
+KDH9|Watch|Apple Watch Series 4 GPS Nike+ 40mm (4th gen)
+KDHC|Watch|Apple Watch Series 4 GPS Nike+ 44mm (4th gen)
+KDHD|Watch|Apple Watch Series 4 GPS Nike+ 44mm (4th gen)
+KDT1|Watch|Apple Watch Series 4 Cellular Aluminum 40mm (4th gen)
+KDT2|Watch|Apple Watch Series 4 Cellular Aluminum 40mm (4th gen)
+KDT3|Watch|Apple Watch Series 4 Cellular Aluminum 40mm (4th gen)
+KDT4|Watch|Apple Watch Series 4 Stainless Steel 40mm (4th gen)
+KDT5|Watch|Apple Watch Series 4 Stainless Steel 40mm (4th gen)
+KDT6|Watch|Apple Watch Series 4 Stainless Steel 40mm (4th gen)
+KDT7|Watch|Apple Watch Series 4 Cellular Aluminum 44mm (4th gen)
+KDT8|Watch|Apple Watch Series 4 Cellular Aluminum 44mm (4th gen)
+KDT9|Watch|Apple Watch Series 4 Cellular Aluminum 44mm (4th gen)
+KDTC|Watch|Apple Watch Series 4 Stainless Steel 44mm (4th gen)
+KDTD|Watch|Apple Watch Series 4 Stainless Steel 44mm (4th gen)
+KDTG|Watch|Apple Watch Series 4 Stainless Steel 44mm (4th gen)
+KDTH|Watch|Apple Watch Series 4 Cellular Aluminum 40mm (4th gen)
+KDTJ|Watch|Apple Watch Series 4 Cellular Aluminum 40mm (4th gen)
+KDTK|Watch|Apple Watch Series 4 Cellular Aluminum 40mm (4th gen)
+KDTL|Watch|Apple Watch Series 4 Stainless Steel 40mm (4th gen)
+KDTM|Watch|Apple Watch Series 4 Stainless Steel 40mm (4th gen)
+KDTN|Watch|Apple Watch Series 4 Stainless Steel 40mm (4th gen)
+KDTP|Watch|Apple Watch Series 4 Cellular Aluminum 44mm (4th gen)
+KDTQ|Watch|Apple Watch Series 4 Cellular Aluminum 44mm (4th gen)
+KDTR|Watch|Apple Watch Series 4 Cellular Aluminum 44mm (4th gen)
+KDTT|Watch|Apple Watch Series 4 Stainless Steel 44mm (4th gen)
+KDTV|Watch|Apple Watch Series 4 Stainless Steel 44mm (4th gen)
+KDTW|Watch|Apple Watch Series 4 Stainless Steel 44mm (4th gen)
+KDTX|Watch|Apple Watch Series 4 Cellular Nike+ 40mm (4th gen)
+KDTY|Watch|Apple Watch Series 4 Cellular Nike+ 40mm (4th gen)
+KDV3|Watch|Apple Watch Series 4 Cellular Nike+ 40mm (4th gen)
+KDV4|Watch|Apple Watch Series 4 Cellular Nike+ 40mm (4th gen)
+KDV7|Watch|Apple Watch Series 4 Hermes 40mm (4th gen)
+KDV8|Watch|Apple Watch Series 4 Hermes 44mm (4th gen)
+KDV9|Watch|Apple Watch Series 4 Hermes 40mm (4th gen)
+KDVC|Watch|Apple Watch Series 4 Hermes 44mm (4th gen)
+KGYF|Laptop|MacBook Pro (15-inch, 2018)
+KGYG|Laptop|MacBook Pro (15-inch, 2018)
+KGYH|Laptop|MacBook Pro (15-inch, 2018)
 KHS|Stationary|Power Mac G4 Server (Digital Audio)
 KHT|Stationary|Power Mac G4 Server (Digital Audio)
 KHU|Stationary|Power Mac G4 Server (Digital Audio)
@@ -5093,6 +6427,9 @@ KJK|Stationary|iMac (Early 2001)
 KJL|Stationary|iMac (Early 2001)
 KJM|Stationary|iMac (Early 2001)
 KJN|Stationary|iMac (Early 2001)
+KJNC|Headphones|Beats X, Sacai
+KJND|Headphones|Beats X, Sacai
+KJNF|Headphones|Beats X, Sacai
 KJP|Stationary|iMac (Early 2001)
 KJQ|Stationary|iMac (Early 2001)
 KJR|Stationary|iMac (Early 2001)
@@ -5101,6 +6438,9 @@ KJT|Stationary|iMac (Early 2001)
 KJU|Stationary|iMac (Early 2001)
 KJV|Stationary|iMac (Early 2001)
 KJY|Laptop|PowerBook G3
+KK98|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+KK99|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+KK9C|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
 KKY|Stationary|Power Mac G4 (Digital Audio)
 KKZ|Stationary|Power Mac G4 (Digital Audio)
 KL1|Stationary|Power Mac G4 (Digital Audio)
@@ -5121,20 +6461,134 @@ KNW|Stationary|Power Mac G4 (Gigabit Ethernet)
 KNX|Stationary|Power Mac G4 (Gigabit Ethernet)
 KNY|Stationary|Power Mac G4 (Gigabit Ethernet)
 KPF|Stationary|Power Mac G4 (Digital Audio)
+KPFP|Phone|iPhone XS
+KPFQ|Phone|iPhone XS
+KPFR|Phone|iPhone XS
+KPFT|Phone|iPhone XS
+KPFV|Phone|iPhone XS
+KPFW|Phone|iPhone XS
+KPFX|Phone|iPhone XS
+KPFY|Phone|iPhone XS
 KPG|Stationary|Power Mac G4 (Digital Audio)
+KPG0|Phone|iPhone XS
 KPG1|Phone|iPhone XS
+KPG2|Phone|iPhone XS
+KPG3|Phone|iPhone XS
+KPG4|Phone|iPhone XS
+KPG5|Phone|iPhone XS
+KPG6|Phone|iPhone XS
+KPG7|Phone|iPhone XS
+KPG8|Phone|iPhone XS
+KPG9|Phone|iPhone XS
+KPGC|Phone|iPhone XS
+KPGD|Phone|iPhone XS
 KPGF|Phone|iPhone XS
+KPGG|Phone|iPhone XS
+KPGH|Phone|iPhone XS
+KPGJ|Phone|iPhone XS
+KPGK|Phone|iPhone XS
+KPGL|Phone|iPhone XS
+KPGM|Phone|iPhone XS
+KPGN|Phone|iPhone XS
+KPGP|Phone|iPhone XS
+KPGQ|Phone|iPhone XS
+KPGT|Phone|iPhone XS
+KPGV|Phone|iPhone XS
+KPGW|Phone|iPhone XS
+KPGX|Phone|iPhone XS
+KPGY|Phone|iPhone XS
 KPH|Stationary|Power Mac G4 (Digital Audio)
+KPH0|Phone|iPhone XS
+KPH1|Phone|iPhone XS Max
+KPH2|Phone|iPhone XS Max
+KPH3|Phone|iPhone XS Max
+KPH4|Phone|iPhone XS Max
+KPH5|Phone|iPhone XS Max
+KPH6|Phone|iPhone XS Max
+KPH7|Phone|iPhone XS Max
+KPH8|Phone|iPhone XS Max
+KPH9|Phone|iPhone XS Max
+KPHC|Phone|iPhone XS Max
+KPHD|Phone|iPhone XS Max
+KPHF|Phone|iPhone XS Max
+KPHG|Phone|iPhone XS Max
+KPHH|Phone|iPhone XS Max
+KPHJ|Phone|iPhone XS Max
+KPHK|Phone|iPhone XS Max
+KPHL|Phone|iPhone XS Max
+KPHM|Phone|iPhone XS Max
+KPHN|Phone|iPhone XS Max
 KPHP|Phone|iPhone XS Max
+KPHQ|Phone|iPhone XS Max
+KPHR|Phone|iPhone XS Max
+KPHT|Phone|iPhone XS Max
+KPHV|Phone|iPhone XS Max
+KPHW|Phone|iPhone XS Max
+KPHX|Phone|iPhone XS Max
+KPHY|Phone|iPhone XS Max
 KPJ|Stationary|Power Mac G4 (Digital Audio)
+KPJ0|Phone|iPhone XS Max
+KPJ1|Phone|iPhone XS Max
+KPJ2|Phone|iPhone XS Max
+KPJ3|Phone|iPhone XS Max
+KPJ4|Phone|iPhone XS Max
+KPJ5|Phone|iPhone XS Max
+KPJ6|Phone|iPhone XS Max
+KPJ7|Phone|iPhone XS Max
+KPJ8|Phone|iPhone XS Max
 KPM|Software|AppleShare IP 6.3.3
 KPN|Software|AppleShare IP 6.3.3
 KPP|Software|AppleShare IP 6.3.3
 KPQ|Software|AppleShare IP 6.3.3
 KPW|Display|Apple Studio Display 17 inch, LCD
+KQ1X|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+KQ1Y|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+KQ20|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+KQ21|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+KQ22|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+KQ23|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+KQ24|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+KQ25|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+KQ26|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+KQ27|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
 KQ3|Stationary|Power Mac G4 (Cube)
 KQ6|Stationary|iMac DV+ (Summer 2000)
+KQ9Q|Laptop|MacBook Pro (15-inch, 2018)
+KQ9R|Laptop|MacBook Pro (15-inch, 2018)
+KQ9T|Laptop|MacBook Pro (15-inch, 2018)
+KQ9V|Laptop|MacBook Pro (15-inch, 2018)
+KQ9W|Laptop|MacBook Pro (15-inch, 2018)
+KQ9X|Laptop|MacBook Pro (15-inch, 2018)
+KQ9Y|Laptop|MacBook Pro (15-inch, 2018)
 KQA|Stationary|Power Mac G4 (Digital Audio)
+KQC0|Laptop|MacBook Pro (15-inch, 2018)
+KQC1|Laptop|MacBook Pro (15-inch, 2018)
+KQC2|Laptop|MacBook Pro (15-inch, 2018)
+KQC3|Laptop|MacBook Pro (15-inch, 2018)
+KQC4|Laptop|MacBook Pro (15-inch, 2018)
+KQC5|Laptop|MacBook Pro (15-inch, 2018)
+KQC6|Laptop|MacBook Pro (15-inch, 2018)
+KQC7|Laptop|MacBook Pro (15-inch, 2018)
+KQC8|Laptop|MacBook Pro (15-inch, 2018)
+KQC9|Laptop|MacBook Pro (15-inch, 2018)
+KQCC|Laptop|MacBook Pro (15-inch, 2018)
+KQCD|Laptop|MacBook Pro (15-inch, 2018)
+KQCF|Laptop|MacBook Pro (15-inch, 2018)
+KQCG|Laptop|MacBook Pro (15-inch, 2018)
+KQCH|Laptop|MacBook Pro (15-inch, 2018)
+KQCJ|Laptop|MacBook Pro (15-inch, 2018)
+KQCK|Laptop|MacBook Pro (15-inch, 2018)
+KQCL|Laptop|MacBook Pro (15-inch, 2018)
+KQCM|Laptop|MacBook Pro (15-inch, 2018)
+KQCN|Laptop|MacBook Pro (15-inch, 2018)
+KQCP|Laptop|MacBook Pro (15-inch, 2018)
+KQCQ|Laptop|MacBook Pro (15-inch, 2018)
+KQCR|Laptop|MacBook Pro (15-inch, 2018)
+KQCT|Laptop|MacBook Pro (15-inch, 2018)
+KQCV|Laptop|MacBook Pro (15-inch, 2018)
+KQCW|Laptop|MacBook Pro (15-inch, 2018)
+KQCX|Laptop|MacBook Pro (15-inch, 2018)
+KQFL|Stationary|iMac (21.5-inch, 2017)
 KQG|Software|AppleShare IP 6.3.3
 KQH|Software|AppleShare IP 6.3.3
 KQJ|Software|AppleShare IP 6.3.3
@@ -5181,13 +6635,84 @@ KWE|Stationary|iMac (Early 2001)
 KWF|Stationary|iMac (Early 2001)
 KWG|Stationary|iMac (Early 2001)
 KWH|Stationary|iMac (Early 2001)
+KWJ2|Laptop|MacBook Pro (15-inch, 2018)
 KWT|Laptop|iBook (Firewire)
 KWV|Laptop|iBook (Firewire)
 KX0|Software|Mac OS X Server 10.0
 KX3|Software|AppleShare IP 6.3.3
 KX5|Stationary|Power Mac G4 (Digital Audio)
+KXK1|Phone|iPhone XR
+KXK2|Phone|iPhone XR
+KXK3|Phone|iPhone XR
+KXK4|Phone|iPhone XR
+KXK5|Phone|iPhone XR
+KXK6|Phone|iPhone XR
+KXK7|Phone|iPhone XR
+KXK8|Phone|iPhone XR
+KXK9|Phone|iPhone XR
+KXKC|Phone|iPhone XR
+KXKD|Phone|iPhone XR
+KXKF|Phone|iPhone XR
+KXKG|Phone|iPhone XR
+KXKH|Phone|iPhone XR
+KXKJ|Phone|iPhone XR
+KXKK|Phone|iPhone XR
+KXKL|Phone|iPhone XR
+KXKM|Phone|iPhone XR
+KXKN|Phone|iPhone XR
 KXKP|Phone|iPhone XR
+KXKQ|Phone|iPhone XR
+KXKR|Phone|iPhone XR
+KXKT|Phone|iPhone XR
+KXKV|Phone|iPhone XR
+KXKW|Phone|iPhone XR
 KXKX|Phone|iPhone XR
+KXKY|Phone|iPhone XR
+KXL0|Phone|iPhone XR
+KXL1|Phone|iPhone XR
+KXL2|Phone|iPhone XR
+KXL3|Phone|iPhone XR
+KXL4|Phone|iPhone XR
+KXL5|Phone|iPhone XR
+KXL6|Phone|iPhone XR
+KXL7|Phone|iPhone XR
+KXL8|Phone|iPhone XR
+KXL9|Phone|iPhone XR
+KXLC|Phone|iPhone XR
+KXLD|Phone|iPhone XR
+KXLF|Phone|iPhone XR
+KXLG|Phone|iPhone XR
+KXLH|Phone|iPhone XR
+KXLJ|Phone|iPhone XR
+KXLK|Phone|iPhone XR
+KXLL|Phone|iPhone XR
+KXLM|Phone|iPhone XR
+KXLN|Phone|iPhone XR
+KXLP|Phone|iPhone XR
+KXLQ|Phone|iPhone XR
+KXLR|Phone|iPhone XR
+KXLT|Phone|iPhone XR
+KXLV|Phone|iPhone XR
+KXLW|Phone|iPhone XR
+KXLX|Phone|iPhone XR
+KXLY|Phone|iPhone XR
+KXM0|Phone|iPhone XR
+KXM1|Phone|iPhone XR
+KXM2|Phone|iPhone XR
+KXM3|Phone|iPhone XR
+KXM4|Phone|iPhone XR
+KXM5|Phone|iPhone XR
+KXM6|Phone|iPhone XR
+KXM7|Phone|iPhone XR
+KXM8|Phone|iPhone XR
+KXM9|Phone|iPhone XR
+KXMC|Phone|iPhone XR
+KXMD|Phone|iPhone XR
+KXMF|Phone|iPhone XR
+KXMG|Phone|iPhone XR
+KXMH|Phone|iPhone XR
+KXMJ|Phone|iPhone XR
+KXMK|Phone|iPhone XR
 KXQ|Stationary|Power Mac G4 (Digital Audio)
 KXR|Stationary|Power Mac G4 (Digital Audio)
 KXS|Stationary|Power Mac G4 (Digital Audio)
@@ -5196,6 +6721,8 @@ KXW|Software|AppleShare IP 6.3.3
 KXX|Software|AppleShare IP 6.3.3
 KXY|Software|AppleShare IP 6.3.3
 KXZ|Software|AppleShare IP 6.3.3
+KY5Y|Headphones|Solo3 Wireless, Satin Gold or Silver
+KY60|Headphones|Solo3 Wireless, Satin Gold or Silver
 KYC|Stationary|Power Mac G4 (Digital Audio)
 KYD|Stationary|Power Mac G4 (Digital Audio)
 KYE|Stationary|Power Mac G4 (Digital Audio)
@@ -5245,10 +6772,26 @@ L3D|Stationary|iMac (Early 2001)
 L3E|Stationary|Power Mac G4 (QuickSilver)
 L3V|Stationary|iMac (Flat Panel)
 L40|Stationary|iMac (Flat Panel)
+L40Y|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
+L410|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
+L411|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
+L412|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
+L413|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
+L414|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
+L415|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
+L416|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
 L42X|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
 L49|Stationary|iMac (17 inch, Flat Panel)
 L4C|Stationary|iMac (Flat Panel)
+L4FC|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+L4FD|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+L4FF|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+L4FG|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+L4FJ|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
 L4G|Stationary|iMac (17 inch, Flat Panel)
+L4HW|Laptop|MacBook Pro (15-inch, 2018)
+L4HX|Laptop|MacBook Pro (15-inch, 2018)
+L4JT|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
 L4L|Stationary|iMac (17 inch, Flat Panel)
 L4V|Stationary|Power Mac G4 Server (Digital Audio)
 L4Y|Stationary|Power Mac G4 (QuickSilver)
@@ -5257,6 +6800,8 @@ L50|Stationary|Power Mac G4 (QuickSilver)
 L51|Stationary|Power Mac G4 (QuickSilver)
 L52|Stationary|Power Mac G4 (QuickSilver)
 L53|Stationary|Power Mac G4 (QuickSilver)
+L539|Laptop|MacBook Pro (15-inch, 2018)
+L53D|Laptop|MacBook Pro (15-inch, 2018)
 L5A|Stationary|iMac (Early 2001)
 L5C|Stationary|iMac (Early 2001)
 L5E|Stationary|iMac (Early 2001)
@@ -5265,6 +6810,10 @@ L5M|Laptop|PowerBook G4
 L5T|Software|Final Cut Pro 2.0
 L5U|Software|Final Cut Pro 2.0
 L5V|Software|Final Cut Pro 2.0
+L5YT|Phone|iPhone XS Smart Battery Case
+L5YV|Phone|iPhone XS Max Smart Battery Case
+L5YW|Phone|iPhone XS Smart Battery Case
+L5YX|Phone|iPhone XS Max Smart Battery Case
 L65|Stationary|Power Mac G4 (Digital Audio)
 L6C|Software|WebObjects 5
 L6D|Software|WebObjects 5
@@ -5288,8 +6837,12 @@ L7C|Software|Mac OS X Server 10.0
 L7D|Software|Mac OS X Server 10.0
 L7E|Software|Mac OS X Server 10.0
 L7F|Software|Mac OS X Server 10.0
+L7FY|Stationary|Mac mini (Late 2014)
 L7G|Software|Mac OS X Server 10.0
+L7GC|Laptop|MacBook Pro (15-inch, 2018)
+L7GD|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
 L7H|Software|Mac OS X Server 10.0
+L7H6|Stationary|iMac (Retina 4K, 21.5-inch, 2017)
 L7L|Software|Mac OS X Server 10.0
 L7M|Software|Mac OS X Server 10.0
 L7N|Software|Mac OS X Server 10.0
@@ -5308,12 +6861,18 @@ L90|Stationary|Power Mac G4 (Digital Audio)
 L91|Stationary|Power Mac G4 (Digital Audio)
 L92|Stationary|Power Mac G4 (Digital Audio)
 L95|Stationary|Power Mac G4 (Digital Audio)
+L95X|Stationary|Mac mini (2018)
+L95Y|Stationary|Mac mini (2018)
+L960|Stationary|Mac mini (2018)
 L98|Laptop|PowerBook G4
 L99|Laptop|PowerBook G4
 L9A|Laptop|PowerBook G4
 L9B|Laptop|PowerBook G4
 L9D|Laptop|iBook (Dual USB)
 L9E|Laptop|iBook (Dual USB)
+L9TM|Stationary|Mac mini (Late 2014)
+L9TN|Stationary|Mac mini (Late 2014)
+L9TP|Stationary|Mac mini (Late 2014)
 LAL|Laptop|iBook (Dual USB)
 LAM|Laptop|iBook (Dual USB)
 LAN|Laptop|iBook (Dual USB)
@@ -5338,6 +6897,10 @@ LBT|Laptop|iBook (Dual USB)
 LBU|Stationary|Power Mac G4 (Digital Audio)
 LBW|Laptop|PowerBook G4
 LC3|Laptop|iBook (Dual USB)
+LC73|Headphones|Solo3 Wireless, Chinese New Year - Blade Gray
+LC8J|Laptop|MacBook Pro (15-inch, 2018)
+LC8K|Laptop|MacBook Pro (15-inch, 2018)
+LC8L|Laptop|MacBook Pro (15-inch, 2018)
 LC9|Laptop|iBook (Dual USB)
 LCA|Laptop|iBook (Dual USB)
 LCB|Laptop|iBook (Dual USB)
@@ -5345,6 +6908,8 @@ LCC|Laptop|iBook (Dual USB)
 LCD|Laptop|iBook (Dual USB)
 LCE|Stationary|iMac (Early 2001)
 LCF|Stationary|iMac (Early 2001)
+LCG|Laptop|MacBook Air
+LCM6|Laptop|MacBook Pro (15-inch, 2018)
 LCW|Stationary|Power Mac G4 (Digital Audio)
 LCX|Laptop|iBook (Dual USB)
 LCZ|Software|DVD Studio Pro
@@ -5400,12 +6965,17 @@ LH8|Router|AirPort Card
 LHB|Laptop|iBook (Dual USB)
 LHC|Laptop|iBook (Dual USB)
 LHD|Laptop|iBook (Dual USB)
+LHPC|Stationary|Mac mini (2018)
 LHW|Laptop|PowerBook G4
 LHX|Laptop|PowerBook G4
 LHY|Stationary|Power Mac G4 (Cube)
 LJQ|Stationary|Power Mac G4 (QuickSilver)
 LJR|Stationary|Power Mac G4 (QuickSilver)
 LJS|Stationary|Power Mac G4 (QuickSilver)
+LK86|Laptop|MacBook Air (Retina, 13-inch, 2018)
+LK87|Laptop|MacBook Air (Retina, 13-inch, 2018)
+LK88|Laptop|MacBook Air (Retina, 13-inch, 2018)
+LK8C|Laptop|MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
 LKB|Stationary|Power Mac G4 (Mirrored Drive Doors)
 LKC|Stationary|Power Mac G4 (Mirrored Drive Doors)
 LL3|Stationary|eMac
@@ -5416,6 +6986,9 @@ LL9|Laptop|iBook (14.1 LCD)
 LLA|Laptop|iBook (14.1 LCD)
 LLB|Laptop|iBook (Dual USB)
 LLD|Laptop|iBook (Dual USB)
+LLDN|Laptop|MacBook Air (Retina, 13-inch, 2018)
+LLDP|Laptop|MacBook Air (Retina, 13-inch, 2018)
+LLDQ|Laptop|MacBook Air (Retina, 13-inch, 2018)
 LLH|Stationary|Power Mac G4 Server (QuickSilver)
 LLJ|Stationary|Power Mac G4 Server (QuickSilver)
 LLK|Laptop|iBook (Late 2001)
@@ -5427,11 +7000,64 @@ LLS|Stationary|iMac (Summer 2001)
 LLT|Stationary|iMac (Summer 2001)
 LM93|Tablet|iPad mini (5th generation)
 LM94|Tablet|iPad mini (5th generation)
+LM95|Tablet|iPad mini (5th generation)
 LM99|Tablet|iPad mini (5th generation)
+LM9C|Tablet|iPad mini (5th generation)
+LM9D|Tablet|iPad mini (5th generation)
+LMPD|Tablet|iPad Air (3rd generation)
+LMPF|Tablet|iPad Air (3rd generation)
+LMPG|Tablet|iPad Air (3rd generation)
+LMPL|Tablet|iPad Air (3rd generation)
+LMPM|Tablet|iPad Air (3rd generation)
+LMPN|Tablet|iPad Air (3rd generation)
 LMS|Stationary|iMac (Summer 2001)
 LMT|Stationary|iMac (Summer 2001)
+LMT7|Tablet|iPad mini (5th generation) Wi-Fi + Cellular
+LMT8|Tablet|iPad mini (5th generation) Wi-Fi + Cellular
+LMT9|Tablet|iPad mini (5th generation) Wi-Fi + Cellular
+LMTG|Tablet|iPad mini (5th generation) Wi-Fi + Cellular
+LMTH|Tablet|iPad mini (5th generation) Wi-Fi + Cellular
+LMTJ|Tablet|iPad mini (5th generation) Wi-Fi + Cellular
+LMTW|Tablet|iPad mini (5th generation) Wi-Fi + Cellular
+LMTX|Tablet|iPad mini (5th generation) Wi-Fi + Cellular
+LMTY|Tablet|iPad mini (5th generation) Wi-Fi + Cellular
+LMV3|Tablet|iPad mini (5th generation) Wi-Fi + Cellular
+LMV4|Tablet|iPad mini (5th generation) Wi-Fi + Cellular
+LMV6|Tablet|iPad mini (5th generation) Wi-Fi + Cellular
+LMV7|Tablet|iPad mini (5th generation) Wi-Fi + Cellular
+LMV8|Tablet|iPad mini (5th generation) Wi-Fi + Cellular
+LMV9|Tablet|iPad mini (5th generation) Wi-Fi + Cellular
+LMVJ|Tablet|iPad mini (5th generation) Wi-Fi + Cellular
+LMVK|Tablet|iPad mini (5th generation) Wi-Fi + Cellular
+LMVL|Tablet|iPad mini (5th generation) Wi-Fi + Cellular
+LMVV|Tablet|iPad Air (3rd generation) Wi-Fi + Cellular
+LMVW|Tablet|iPad Air (3rd generation) Wi-Fi + Cellular
+LMVX|Tablet|iPad Air (3rd generation) Wi-Fi + Cellular
+LMVY|Tablet|iPad Air (3rd generation) Wi-Fi + Cellular
+LMW0|Tablet|iPad Air (3rd generation) Wi-Fi + Cellular
+LMW1|Tablet|iPad Air (3rd generation) Wi-Fi + Cellular
+LMWG|Tablet|iPad Air (3rd generation) Wi-Fi + Cellular
+LMWH|Tablet|iPad Air (3rd generation) Wi-Fi + Cellular
+LMWJ|Tablet|iPad Air (3rd generation) Wi-Fi + Cellular
+LMWN|Tablet|iPad Air (3rd generation) Wi-Fi + Cellular
+LMWP|Tablet|iPad Air (3rd generation) Wi-Fi + Cellular
+LMWQ|Tablet|iPad Air (3rd generation) Wi-Fi + Cellular
+LMWR|Tablet|iPad Air (3rd generation) Wi-Fi + Cellular
+LMWT|Tablet|iPad Air (3rd generation) Wi-Fi + Cellular
+LMWV|Tablet|iPad Air (3rd generation) Wi-Fi + Cellular
+LMX0|Tablet|iPad Air (3rd generation) Wi-Fi + Cellular
+LMX1|Tablet|iPad Air (3rd generation) Wi-Fi + Cellular
+LMX2|Tablet|iPad Air (3rd generation) Wi-Fi + Cellular
 LMZ|Laptop|iBook (Dual USB)
 LN0|Laptop|PowerBook G4
+LN3J|Headphones|Powerbeats Pro
+LN3L|Headphones|Powerbeats Pro
+LN3N|Headphones|Powerbeats Pro
+LN3P|Headphones|Powerbeats Pro
+LN55|Phone|iPhone XR Smart Battery Case
+LN56|Phone|iPhone XR Smart Battery Case
+LN57|Phone|iPhone XS Smart Battery Case
+LN59|Phone|iPhone XS Max Smart Battery Case
 LN9|Laptop|PowerBook G4 (Gigabit Ethernet)
 LNA|Laptop|PowerBook G4 (Gigabit Ethernet)
 LNB|Laptop|PowerBook G4 (Gigabit Ethernet)
@@ -5460,6 +7086,7 @@ LPX|Laptop|iBook (Late 2001)
 LPY|Laptop|iBook (Late 2001)
 LPZ|Laptop|iBook (Late 2001)
 LQ0|Laptop|iBook (16 VRAM)
+LQ07|Laptop|MacBook Air (13-inch, 2017)
 LQ2|Laptop|iBook (16 VRAM)
 LQ3|Laptop|iBook (14.1 LCD 16 VRAM)
 LQ4|Laptop|iBook (16 VRAM)
@@ -5467,9 +7094,15 @@ LQ5|Laptop|iBook (16 VRAM)
 LQ6|Laptop|iBook (14.1 LCD 16 VRAM)
 LQ7|Stationary|iMac (Summer 2001)
 LQ8|Stationary|iMac (Summer 2001)
+LQDC|Laptop|MacBook Air (Retina, 13-inch, 2018)
+LQDD|Laptop|MacBook Air (Retina, 13-inch, 2018)
+LQF1|Laptop|MacBook Air (13-inch, 2017)
+LQHG|Stationary|iMac (Retina 4K, 21.5-inch, 2017)
 LQO|Laptop|iBook (16 VRAM)
 LQY|Laptop|iBook (Dual USB)
 LQZ|Laptop|PowerBook G4
+LR0X|Laptop|MacBook Air (Retina, 13-inch, 2018)
+LR0Y|Laptop|MacBook Air (Retina, 13-inch, 2018)
 LR1|Stationary|Power Mac G4 (Cube)
 LR3|Stationary|Power Mac G4 (Cube)
 LR5|Stationary|iMac (Summer 2001)
@@ -5483,6 +7116,10 @@ LRG|Stationary|iMac (Summer 2001)
 LRL|Stationary|iMac (Summer 2001)
 LRX|Stationary|eMac
 LRZ|Stationary|eMac
+LTWM|Headphones|Solo3 Wireless, Satin Gold or Silver
+LTWN|Headphones|Solo3 Wireless, Satin Gold or Silver
+LTWP|Headphones|Solo3 Wireless, Satin Gold or Silver
+LTWQ|Headphones|Solo3 Wireless, Satin Gold or Silver
 LUJ|Stationary|iMac (Summer 2001)
 LUK|Stationary|iMac (Summer 2001)
 LUL|Stationary|iMac (Summer 2001)
@@ -5490,18 +7127,48 @@ LUX|Stationary|Power Mac G4 (QuickSilver)
 LUY|Stationary|Power Mac G4 (QuickSilver)
 LUZ|Stationary|Power Mac G4 (QuickSilver)
 LV7|Stationary|iMac (Summer 2001)
+LVCF|Laptop|MacBook Pro (15-inch, 2019)
+LVCG|Laptop|MacBook Pro (15-inch, 2019)
+LVCH|Laptop|MacBook Pro (15-inch, 2019)
+LVCJ|Laptop|MacBook Pro (15-inch, 2019)
+LVCK|Laptop|MacBook Pro (15-inch, 2019)
+LVCL|Laptop|MacBook Pro (15-inch, 2019)
+LVDC|Laptop|MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
+LVDD|Laptop|MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
+LVDF|Laptop|MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
+LVDG|Laptop|MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
+LVDH|Laptop|MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
 LVDL|Laptop|MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
+LVDM|Laptop|MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
 LVDN|Laptop|MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
+LVDP|Laptop|MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
 LVDQ|Laptop|MacBook Pro (15-inch, 2019)
+LVDR|Laptop|MacBook Pro (15-inch, 2019)
 LVDT|Laptop|MacBook Pro (15-inch, 2019)
+LVDV|Laptop|MacBook Pro (15-inch, 2019)
+LVVJ|Stationary|Mac mini (2018)
+LVVK|Stationary|Mac mini (2018)
+LVVL|Stationary|Mac mini (2018)
+LVVM|Stationary|Mac mini (2018)
+LVVN|Stationary|Mac mini (2018)
 LWW|Stationary|iMac (Summer 2001)
+LX2Y|Headphones|AirPods (2nd generation)
 LXZ|Software|WebObjects 5
 LY0|Laptop|PowerBook G4 (Gigabit Ethernet)
 LY1|Laptop|PowerBook G4 (Gigabit Ethernet)
 LYV|Laptop|iBook (Dual USB)
+LYWG|Laptop|MacBook Air (Retina, 13-inch, 2019)
 LYWH|Laptop|MacBook Air (Retina, 13-inch, 2019)
+LYWJ|Laptop|MacBook Air (Retina, 13-inch, 2019)
+LYWK|Laptop|MacBook Air (Retina, 13-inch, 2019)
+LYWL|Laptop|MacBook Air (Retina, 13-inch, 2019)
+LYWM|Laptop|MacBook Air (Retina, 13-inch, 2019)
+LYWN|Laptop|MacBook Air (Retina, 13-inch, 2019)
+LYWP|Laptop|MacBook Air (Retina, 13-inch, 2019)
 LYWQ|Laptop|MacBook Air (Retina, 13-inch, 2019)
 LYWR|Laptop|MacBook Air (Retina, 13-inch, 2019)
+LYWT|Laptop|MacBook Air (Retina, 13-inch, 2019)
+LYWV|Laptop|MacBook Air (Retina, 13-inch, 2019)
 LYY|Laptop|iBook (Late 2001)
 LYZ|Laptop|iBook (Late 2001)
 LZ0|Laptop|iBook (Late 2001)
@@ -5519,6 +7186,7 @@ M0E|Stationary|iMac (Summer 2001)
 M0F|Stationary|iMac (Summer 2001)
 M0L|Software|WebObjects 5
 M0Q|Stationary|iMac (Summer 2001)
+M0XV|Stationary|iMac Pro (2017)
 M11|Stationary|iMac G5 (20-Inch iSight)
 M16|Laptop|PowerBook G4 (DVI)
 M17|Laptop|PowerBook G4 (DVI)
@@ -5579,7 +7247,11 @@ M5U|Stationary|Power Mac G4 (QuickSilver)
 M5V|Stationary|Power Mac G4 (QuickSilver)
 M6R|Laptop|PowerBook G4 (Gigabit Ethernet)
 M6S|Laptop|iBook (Late 2001)
+M6X5|Laptop|MacBook Air (Retina, 13-inch, 2019)
+M6X7|Laptop|MacBook Air (Retina, 13-inch, 2019)
 M79|Stationary|Power Mac G4 Server (QuickSilver)
+M7FT|Stationary|Mac mini (2018)
+M7FV|Stationary|Mac mini (2018)
 M7G|Stationary|iMac (Flat Panel)
 M7W|Stationary|Power Mac G4 Server (QuickSilver)
 M7Y|Laptop|iBook (Late 2001)
@@ -5592,7 +7264,28 @@ M8H|Stationary|Power Mac G4 (QuickSilver 2002)
 M8K|Server|XserveRAID
 M8L|Server|XserveRAID
 M8M|Server|XserveRAID
+M937|Mp3Player|iPod touch (7th generation)
+M938|Mp3Player|iPod touch (7th generation)
+M939|Mp3Player|iPod touch (7th generation)
+M93C|Mp3Player|iPod touch (7th generation)
+M93D|Mp3Player|iPod touch (7th generation)
+M93F|Mp3Player|iPod touch (7th generation)
+M93G|Mp3Player|iPod touch (7th generation)
+M93H|Mp3Player|iPod touch (7th generation)
+M93J|Mp3Player|iPod touch (7th generation)
+M93K|Mp3Player|iPod touch (7th generation)
+M93L|Mp3Player|iPod touch (7th generation)
+M93M|Mp3Player|iPod touch (7th generation)
+M93N|Mp3Player|iPod touch (7th generation)
+M93P|Mp3Player|iPod touch (7th generation)
+M93Q|Mp3Player|iPod touch (7th generation)
+M93R|Mp3Player|iPod touch (7th generation)
+M93T|Mp3Player|iPod touch (7th generation)
+M93V|Mp3Player|iPod touch (7th generation)
 M98|Server|XserveRAID
+M99N|Stationary|Mac mini (2018)
+M99P|Stationary|Mac mini (2018)
+M99Q|Stationary|Mac mini (2018)
 MAA|Laptop|PowerBook G4 (Gigabit Ethernet)
 MAB|Laptop|PowerBook G4 (Gigabit Ethernet)
 MAC|Laptop|PowerBook G4 (Gigabit Ethernet)
@@ -5616,6 +7309,20 @@ MBQ|Stationary|iMac (Summer 2001)
 MBR|Stationary|iMac (Summer 2001)
 MBS|Stationary|iMac (Summer 2001)
 MBW|Stationary|iMac (Summer 2001)
+MC9H|Stationary|iMac Pro (2017)
+MC9J|Stationary|iMac (Retina 5K, 27-inch, 2019)
+MC9K|Stationary|iMac (Retina 5K, 27-inch, 2019)
+MC9L|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
+MC9M|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
+MCC1|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
+MCD6|Stationary|Mac mini (2018)
+MCD7|Stationary|iMac (21.5-inch, 2017)
+MCD8|Stationary|iMac (21.5-inch, 2017)
+MCD9|Stationary|iMac (21.5-inch, 2017)
+MCKP|Laptop|MacBook Air (Retina, 13-inch, 2018)
+MCKQ|Laptop|MacBook Air (Retina, 13-inch, 2018)
+MCKR|Laptop|MacBook Air (Retina, 13-inch, 2018)
+MCKT|Laptop|MacBook Air (Retina, 13-inch, 2018)
 MCW|Stationary|iMac (Summer 2001)
 MCX|Other|DVI to ADC Adapter
 MD5|Stationary|iMac (Summer 2001)
@@ -5655,6 +7362,7 @@ MEZ|Laptop|iBook (Late 2001)
 MFM|Laptop|iBook (Late 2001)
 MFV|Stationary|iMac (Flat Panel)
 MFW|Stationary|Power Mac G4 (QuickSilver 2002ED)
+MFWJ|Laptop|MacBook Air (13-inch, 2017)
 MFX|Stationary|Power Mac G4 (Mirrored Drive Doors)
 MGB|Stationary|Power Mac Server G4 (Mirrored Drive Doors)
 MGC|Laptop|iBook (Late 2001)
@@ -5676,6 +7384,7 @@ MHD|Stationary|iMac (Flat Panel)
 MHE|Stationary|iMac (Flat Panel)
 MHF|Stationary|iMac (Flat Panel)
 MHG|Stationary|iMac (Flat Panel)
+MHGQ|Stationary|Mac mini (2018)
 MHH|Stationary|iMac (Flat Panel)
 MHJ|Stationary|iMac (Flat Panel)
 MHK|Laptop|iBook (Late 2001)
@@ -5696,6 +7405,8 @@ MJ4|Software|Apple Remote Desktop 1.x
 MJ7|Mp3Player|iPod (5 GB Scroll Wheel Personalized)
 MJF|Stationary|Power Mac G4 (QuickSilver 2002)
 MJG|Stationary|Power Mac G4 (QuickSilver)
+MJHL|Stationary|Mac mini (2018)
+MJLR|Laptop|MacBook Pro (15-inch, 2018)
 MJLT|Laptop|MacBook Pro (15-inch, 2018)
 MJM|Laptop|iBook (Late 2001)
 MJP|Stationary|Power Mac G4 (QuickSilver 2002)
@@ -5705,6 +7416,7 @@ MK6|Software|DVD Studio Pro
 MK7|Stationary|Power Mac G4 (QuickSilver 2002)
 MK8|Stationary|Power Mac G4 (QuickSilver 2002)
 MK9|Stationary|Power Mac G4 (QuickSilver 2002)
+MKTR|Stationary|Mac mini (2018)
 MKZ|Laptop|iBook (Late 2001)
 ML1|Mp3Player|iPod (10 GB Scroll Wheel)
 ML4|Stationary|iMac (Summer 2001)
@@ -5720,11 +7432,16 @@ MMB|Mp3Player|iPod (10 GB Touchwheel)
 MMC|Mp3Player|iPod (20 GB Touchwheel)
 MME|Mp3Player|iPod (10 GB Touchwheel, Win)
 MMF|Mp3Player|iPod (20 GB Touchwheel, Win)
+MMTK|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
+MMTL|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
+MPM0|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
 MQ4|Stationary|iMac (Flat Panel)
 MQ8|Stationary|Power Mac G4 (QuickSilver 2002)
+MQ87|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
 MQ9|Stationary|Power Mac G4 (Mirrored Drive Doors)
 MQA|Stationary|Power Mac G4 (Mirrored Drive Doors)
 MQH|Stationary|iMac (Flat Panel)
+MQQP|Stationary|iMac (Retina 5K, 27-inch, 2019)
 MQV|Stationary|Power Mac G4 (QuickSilver 2002)
 MR7|Stationary|Power Mac Server G4 (Mirrored Drive Doors)
 MR8|Stationary|Power Mac Server G4 (Mirrored Drive Doors)
@@ -5741,6 +7458,7 @@ MRN|Stationary|Power Mac G4 (QuickSilver 2002ED)
 MRR|Laptop|iBook (800 MHZ 32 VRAM)
 MRT|Laptop|PowerBook G4 (12-inch)
 MRV|Mp3Player|iPod (5 GB Touchwheel, Win, Personalized)
+MRVM|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
 MRW|Mp3Player|iPod (10 GB Scroll Wheel Personalized)
 MS7|Laptop|iBook (14.1 LCD)
 MT3|Software|Cinema Tools 1.X
@@ -5749,6 +7467,7 @@ MT5|Software|Cinema Tools 1.X
 MT7|Software|Cinema Tools 1.X
 MT8|Software|Cinema Tools 1.X
 MT9|Software|Cinema Tools 1.X
+MTML|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
 MTW|Laptop|PowerBook G4 (DVI)
 MTX|Laptop|PowerBook G4 (DVI)
 MTY|Laptop|PowerBook G4 (DVI)
@@ -5768,11 +7487,22 @@ MUV|Laptop|iBook (14.1 LCD)
 MV7|Stationary|iMac (Flat Panel)
 MV8|Stationary|iMac (Flat Panel)
 MV9|Stationary|iMac (Flat Panel)
+MV9K|Laptop|MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
+MV9R|Laptop|MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
+MV9T|Laptop|MacBook Pro (15-inch, 2019)
+MVC0|Laptop|MacBook Pro (15-inch, 2019)
 MVN|Server|XServe
 MVP|Server|XServe
 MVV|Laptop|iBook (14.1 LCD 16 VRAM)
 MVZ|Laptop|PowerBook G4 (17-inch)
 MW0|Laptop|PowerBook G4 (17-inch)
+MW28|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
+MW2P|Stationary|iMac (Retina 5K, 27-inch, 2019)
+MW2Q|Stationary|iMac (Retina 5K, 27-inch, 2019)
+MW2R|Stationary|iMac (Retina 5K, 27-inch, 2019)
+MW2T|Stationary|iMac (Retina 5K, 27-inch, 2019)
+MW2V|Stationary|iMac (Retina 5K, 27-inch, 2019)
+MW2W|Stationary|iMac (Retina 5K, 27-inch, 2019)
 MW3|Laptop|iBook (16 VRAM)
 MW5|Software|AppleWorks 6.2 for Mac OS X
 MW6|Stationary|Power Mac G4 (QuickSilver 2002)
@@ -5782,6 +7512,7 @@ MW9|Stationary|iMac (Flat Panel)
 MWC|Stationary|iMac (Flat Panel)
 MWD|Software|Mac OS X 10.2
 MWO|Laptop|PowerBook G4 (17-inch)
+MX7W|Stationary|iMac (Retina 5K, 27-inch, 2019)
 MXD|Stationary|Power Mac G4 (Mirrored Drive Doors)
 MXE|Stationary|Power Mac Server G4 (Mirrored Drive Doors)
 MXM|Stationary|eMac
@@ -5815,6 +7546,7 @@ MZD|Stationary|iMac (Summer 2001)
 MZG|Stationary|iMac (Summer 2001)
 MZL|Camera|iSight
 MZP|Laptop|PowerBook G4 (DVI)
+N07H|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
 N0J|Software|AppleWorks 6.2 for Mac OS X
 N0K|Software|AppleWorks 6.2 for Mac OS X
 N0L|Software|AppleWorks 6.2 for Mac OS X
@@ -5829,6 +7561,8 @@ N1H|Laptop|iBook (Late 2001)
 N1L|Laptop|iBook (Late 2001)
 N1N|Laptop|iBook (800 MHZ 32 VRAM)
 N1S|Stationary|Power Mac G4 (FW 800)
+N1VW|Stationary|Mac Pro (Late 2013)
+N1VX|Stationary|Mac Pro (Late 2013)
 N1W|Stationary|Power Mac G4 (FW 800)
 N1X|Stationary|Power Mac G4 (FW 800)
 N1Y|Stationary|Power Mac G4 (FW 800)
@@ -5875,20 +7609,31 @@ N59|Laptop|iBook (14.1 LCD 16 VRAM)
 N5A|Laptop|iBook (32 VRAM)
 N5B|Laptop|iBook (Opaque 16VRAM)
 N5C|Laptop|iBook (14.1 LCD 32 VRAM)
+N5T5|Laptop|MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
+N5T6|Laptop|MacBook Pro (15-inch, 2019)
 N60|Laptop|iBook (16 VRAM)
 N61|Laptop|iBook (16 VRAM)
 N65|Laptop|iBook (16 VRAM)
 N6A|Laptop|PowerBook G4 (DVI)
 N6B|Laptop|PowerBook G4 (DVI)
+N6JT|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
+N6KF|Laptop|MacBook Pro (15-inch, 2019)
 N6P|Laptop|iBook (16 VRAM)
+N6RJ|Laptop|MacBook Pro (15-inch, 2019)
 N6S|Router|AirPort Extreme Card
+N6VR|Stationary|Mac mini (2018)
 N6W|Router|AirPort Extreme Card
 N6X|Router|AirPort Extreme Card
 N6Y|Router|AirPort Extreme Card
+N71C|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
+N71D|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
+N71F|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
+N71G|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
 N74|Laptop|iBook (16 VRAM)
 N77|Software|AppleWorks 5
 N78|Software|AppleWorks 5
 N79|Software|Mac OS X 10.1
+N797|Laptop|MacBook Air (Retina, 13-inch, 2019)
 N7K|Stationary|iMac (Summer 2001)
 N7L|Laptop|iBook (14.1 LCD 16 VRAM)
 N7M|Laptop|iBook (16 VRAM)
@@ -5901,6 +7646,7 @@ N7T|Laptop|iBook (16 VRAM)
 N7V|Laptop|iBook (14.1 LCD 16 VRAM)
 N7X|Software|Mac OS X Server 10.2
 N83|Stationary|iMac (Flat Panel)
+N86D|Laptop|MacBook (Retina, 12-inch, 2017)
 N88|Stationary|iMac (17 inch, Flat Panel)
 N89|Stationary|iMac (17 inch, Flat Panel)
 N8A|Stationary|iMac (17 inch, Flat Panel)
@@ -5921,6 +7667,7 @@ N9D|Laptop|iBook (16 VRAM)
 N9J|Stationary|eMac
 N9K|Stationary|eMac
 N9L|Stationary|eMac
+N9LN|Stationary|iMac (Retina 4K, 21.5-inch, 2019)
 N9Z|Server|XServe
 NA2|Laptop|iBook (16 VRAM)
 NA4|Laptop|iBook (14.1 LCD 16 VRAM)
@@ -5960,7 +7707,18 @@ NC4|Stationary|eMac
 NC6|Stationary|iMac (Flat Panel)
 NC8|Stationary|eMac
 NCA|Stationary|eMac
+NCLV|Laptop|MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
+NCLW|Laptop|MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
+NCLX|Laptop|MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
+NCLY|Laptop|MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
 NCM|Stationary|eMac
+NCM0|Laptop|MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
+NCM1|Laptop|MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
+NCM2|Laptop|MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
+NCM3|Laptop|MacBook Pro (15-inch, 2019)
+NCM4|Laptop|MacBook Pro (15-inch, 2019)
+NCM5|Laptop|MacBook Pro (15-inch, 2019)
+NCM6|Laptop|MacBook Pro (15-inch, 2019)
 NCN|Stationary|eMac
 NCP|Stationary|eMac
 NCQ|Stationary|eMac
@@ -6084,6 +7842,12 @@ NPR|Software|Keynote 1.x
 NPT|Laptop|iBook (16 VRAM)
 NQ3|Laptop|iBook (16 VRAM)
 NQ9|Laptop|PowerBook G4 (1GHZ/867MHZ)
+NQM8|Laptop|MacBook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
+NQM9|Laptop|MacBook Pro (15-inch, 2019)
+NQMC|Laptop|MacBook Pro (15-inch, 2019)
+NQMD|Laptop|MacBook Pro (15-inch, 2019)
+NQMF|Laptop|MacBook Pro (15-inch, 2019)
+NR4Y|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
 NRH|Mp3Player|iPod (10 GB, With Dock Connector)
 NRK|Mp3Player|iPod (10 GB, With Dock Connector, Personalized)
 NRL|Laptop|iBook (Opaque 16VRAM)
@@ -6160,6 +7924,17 @@ NWS|Laptop|iBook (14.1 LCD 32 VRAM)
 NWT|Laptop|iBook (32 VRAM)
 NWU|Laptop|iBook (32 VRAM)
 NX9|Software|WebObjects 5
+NXJM|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
+NY17|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
+NY18|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
+NY19|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
+NY1C|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
+NY1F|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
+NY1G|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
+NY1H|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
+NY1J|Laptop|MacBook Air (Retina, 13-inch, 2019)
+NY1K|Laptop|MacBook Air (Retina, 13-inch, 2019)
+NY2G|Stationary|iMac (Retina 5K, 27-inch, 2019)
 NY4|Laptop|iBook (14.1 LCD 32 VRAM)
 NY5|Laptop|iBook (32 VRAM)
 NYE|Laptop|iBook (16 VRAM)
@@ -6185,11 +7960,13 @@ P06|Server|Xserve(Cluster Node)
 P08|Laptop|PowerBook G4 (12-inch)
 P0A|Router|AirPort Extreme Base Station
 P0B|Laptop|PowerBook G4 (12-inch)
+P0LW|Laptop|MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)
 P18|Stationary|iMac (Flat Panel 2003)
 P19|Stationary|iMac (Flat Panel 2003)
 P1U|Server|Xserve(Cluster Node)
 P1V|Laptop|iBook (16 VRAM)
 P1W|Server|Xserve(Slot Load)
+P1WV|Stationary|iMac (Retina 5K, 27-inch, 2019)
 P1X|Server|Xserve(Slot Load)
 P1Y|Server|Xserve(Slot Load)
 P21|Laptop|PowerBook G4 (17-inch, 1.33GHZ)
@@ -7283,6 +9060,7 @@ SR2|Server|XserveG5 (January 2005)
 SR8|Server|XserveG5 (January 2005)
 SR9|Server|XserveG5 (January 2005)
 SST|Server|XserveG5 (January 2005)
+ST61|Laptop|MacBook Pro (13-inch, Early 2011)
 STB|Software|Motion 2
 STC|Software|DVD Studio Pro 4.0
 STD|Software|Motion 2
