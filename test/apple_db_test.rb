@@ -11,15 +11,18 @@ class AppleDbTest < Minitest::Test
     iphone_x = db.find_by_serial_number("G6TVKE4BJCL8")
     imac = db.find_by_serial_number("C02K3B15DNMP")
     macbook_pro = db.find_by_serial_number("C02SWFBWHF1R")
+    power_mac = db.find_by_serial_number("12345678N1S")
     nothing = db.find_by_serial_number("ABC")
 
     assert iphone_x["name"] == "iPhone X"
     assert imac["name"] == "iMac (27-inch, Late 2012)"
     assert macbook_pro["name"] == "MacBook Pro (13-inch, Late 2016, Four Thunderbolt 3 Ports)"
+    assert power_mac["name"] == "Power Mac G4 (FW 800)"
 
     assert iphone_x["category"] == "Phone"
     assert imac["category"] == "Stationary"
     assert macbook_pro["category"] == "Laptop"
+    assert power_mac["category"] == "Stationary"
     assert nothing.nil?
   end
 end
